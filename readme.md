@@ -3,6 +3,7 @@
 ---
 
     This project is working prototype showing the use of GraphQL in an Angular Application.
+    (Server uses the simple JS version - Angular project is TS version)
 
 > ### JavaScript + GraphQL + Angular + Express + SqlLite
 
