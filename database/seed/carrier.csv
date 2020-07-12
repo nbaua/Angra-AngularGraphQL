@@ -1,717 +1,717 @@
-id,flight,tailnum,airline
-1,9E-3331,N0EGMQ,Endeavor Air Inc.
-2,9E-3338,N10156,Endeavor Air Inc.
-3,9E-3359,N103US,Endeavor Air Inc.
-4,9E-3422,N104UW,Endeavor Air Inc.
-5,9E-3452,N107US,Endeavor Air Inc.
-6,9E-3453,N108UW,Endeavor Air Inc.
-7,9E-3483,N109UW,Endeavor Air Inc.
-8,9E-3521,N110UW,Endeavor Air Inc.
-9,9E-3523,N11109,Endeavor Air Inc.
-10,9E-3525,N11119,Endeavor Air Inc.
-11,9E-3793,N11140,Endeavor Air Inc.
-12,9E-3798,N11150,Endeavor Air Inc.
-13,9E-3856,N11155,Endeavor Air Inc.
-14,AA-1,N11164,American Airlines Inc.
-15,AA-1039,N11184,American Airlines Inc.
-16,AA-1073,N11187,American Airlines Inc.
-17,AA-1141,N11191,American Airlines Inc.
-18,AA-117,N11192,American Airlines Inc.
-19,AA-119,N11194,American Airlines Inc.
-20,AA-133,N111US,American Airlines Inc.
-21,AA-1351,N11206,American Airlines Inc.
-22,AA-1467,N112US,American Airlines Inc.
-23,AA-1611,N113UW,American Airlines Inc.
-24,AA-1623,N114UW,American Airlines Inc.
-25,AA-1709,N11535,American Airlines Inc.
-26,AA-1762,N11544,American Airlines Inc.
-27,AA-1769,N11565,American Airlines Inc.
-28,AA-177,N117UW,American Airlines Inc.
-29,AA-179,N118US,American Airlines Inc.
-30,AA-1790,N1201P,American Airlines Inc.
-31,AA-181,N12114,American Airlines Inc.
-32,AA-1813,N12116,American Airlines Inc.
-33,AA-1815,N12125,American Airlines Inc.
-34,AA-1837,N12126,American Airlines Inc.
-35,AA-1838,N12142,American Airlines Inc.
-36,AA-185,N12160,American Airlines Inc.
-37,AA-1850,N12167,American Airlines Inc.
-38,AA-1871,N12175,American Airlines Inc.
-39,AA-1895,N12195,American Airlines Inc.
-40,AA-19,N12216,American Airlines Inc.
-41,AA-1925,N12218,American Airlines Inc.
-42,AA-1999,N12221,American Airlines Inc.
-43,AA-2041,N12225,American Airlines Inc.
-44,AA-2099,N12238,American Airlines Inc.
-45,AA-21,N123UW,American Airlines Inc.
-46,AA-2253,N124US,American Airlines Inc.
-47,AA-2267,N12540,American Airlines Inc.
-48,AA-2279,N12552,American Airlines Inc.
-49,AA-3,N12564,American Airlines Inc.
-50,AA-301,N12567,American Airlines Inc.
-51,AA-303,N12569,American Airlines Inc.
-52,AA-305,N125UW,American Airlines Inc.
-53,AA-309,N126UW,American Airlines Inc.
-54,AA-313,N127UW,American Airlines Inc.
-55,AA-319,N12900,American Airlines Inc.
-56,AA-321,N12921,American Airlines Inc.
-57,AA-327,N12922,American Airlines Inc.
-58,AA-329,N12924,American Airlines Inc.
-59,AA-33,N12957,American Airlines Inc.
-60,AA-337,N12967,American Airlines Inc.
-61,AA-341,N12996,American Airlines Inc.
-62,AA-345,N13110,American Airlines Inc.
-63,AA-353,N13113,American Airlines Inc.
-64,AA-359,N13118,American Airlines Inc.
-65,AA-371,N13124,American Airlines Inc.
-66,AA-415,N13133,American Airlines Inc.
-67,AA-443,N13138,American Airlines Inc.
-68,AA-543,N13202,American Airlines Inc.
-69,AA-59,N13248,American Airlines Inc.
-70,AA-647,N13550,American Airlines Inc.
-71,AA-825,N13553,American Airlines Inc.
-72,AA-85,N13718,American Airlines Inc.
-73,B6-1,N13750,JetBlue Airways
-74,B6-1002,N13908,JetBlue Airways
-75,B6-1004,N13913,JetBlue Airways
-76,B6-1006,N13914,JetBlue Airways
-77,B6-1010,N13949,JetBlue Airways
-78,B6-1016,N13956,JetBlue Airways
-79,B6-1018,N13958,JetBlue Airways
-80,B6-1020,N13964,JetBlue Airways
-81,B6-1026,N13965,JetBlue Airways
-82,B6-1085,N13969,JetBlue Airways
-83,B6-11,N13970,JetBlue Airways
-84,B6-1172,N13978,JetBlue Airways
-85,B6-1174,N13979,JetBlue Airways
-86,B6-1176,N13989,JetBlue Airways
-87,B6-1178,N13994,JetBlue Airways
-88,B6-125,N13995,JetBlue Airways
-89,B6-1383,N14102,JetBlue Airways
-90,B6-15,N14105,JetBlue Airways
-91,B6-153,N14106,JetBlue Airways
-92,B6-155,N14107,JetBlue Airways
-93,B6-157,N14115,JetBlue Airways
-94,B6-17,N14118,JetBlue Airways
-95,B6-1783,N14120,JetBlue Airways
-96,B6-1806,N14121,JetBlue Airways
-97,B6-219,N14143,JetBlue Airways
-98,B6-227,N14153,JetBlue Airways
-99,B6-25,N14177,JetBlue Airways
-100,B6-3,N14188,JetBlue Airways
-101,B6-31,N14214,JetBlue Airways
-102,B6-371,N14219,JetBlue Airways
-103,B6-373,N14228,JetBlue Airways
-104,B6-375,N14230,JetBlue Airways
-105,B6-377,N14231,JetBlue Airways
-106,B6-380,N14237,JetBlue Airways
-107,B6-381,N14242,JetBlue Airways
-108,B6-383,N14250,JetBlue Airways
-109,B6-389,N14542,JetBlue Airways
-110,B6-391,N14543,JetBlue Airways
-111,B6-393,N14558,JetBlue Airways
-112,B6-399,N14568,JetBlue Airways
-113,B6-41,N14570,JetBlue Airways
-114,B6-43,N14573,JetBlue Airways
-115,B6-47,N146PQ,JetBlue Airways
-116,B6-503,N14902,JetBlue Airways
-117,B6-505,N14904,JetBlue Airways
-118,B6-507,N14907,JetBlue Airways
-119,B6-509,N14916,JetBlue Airways
-120,B6-515,N14923,JetBlue Airways
-121,B6-517,N14952,JetBlue Airways
-122,B6-523,N14953,JetBlue Airways
-123,B6-525,N14959,JetBlue Airways
-124,B6-527,N14960,JetBlue Airways
-125,B6-529,N14977,JetBlue Airways
-126,B6-61,N14991,JetBlue Airways
-127,B6-641,N14998,JetBlue Airways
-128,B6-643,N153PQ,JetBlue Airways
-129,B6-645,N15572,JetBlue Airways
-130,B6-671,N15574,JetBlue Airways
-131,B6-673,N155DL,JetBlue Airways
-132,B6-675,N15710,JetBlue Airways
-133,B6-677,N15712,JetBlue Airways
-134,B6-679,N15910,JetBlue Airways
-135,B6-79,N15973,JetBlue Airways
-136,B6-801,N15983,JetBlue Airways
-137,B6-85,N15985,JetBlue Airways
-138,B6-9,N15986,JetBlue Airways
-139,B6-905,N1602,JetBlue Airways
-140,B6-917,N1605,JetBlue Airways
-141,B6-981,N1608,JetBlue Airways
-142,B6-987,N1609,JetBlue Airways
-143,B6-989,N1611B,JetBlue Airways
-144,DL-1047,N1612T,Delta Air Lines Inc.
-145,DL-1139,N1613B,Delta Air Lines Inc.
-146,DL-1147,N16147,Delta Air Lines Inc.
-147,DL-120,N16151,Delta Air Lines Inc.
-148,DL-1247,N16183,Delta Air Lines Inc.
-149,DL-127,N161PQ,Delta Air Lines Inc.
-150,DL-1271,N161UW,Delta Air Lines Inc.
-151,DL-1318,N16217,Delta Air Lines Inc.
-152,DL-1322,N16234,Delta Air Lines Inc.
-153,DL-1411,N162UW,Delta Air Lines Inc.
-154,DL-1443,N163US,Delta Air Lines Inc.
-155,DL-1447,N16561,Delta Air Lines Inc.
-156,DL-1465,N16571,Delta Air Lines Inc.
-157,DL-1467,N16701,Delta Air Lines Inc.
-158,DL-1485,N16703,Delta Air Lines Inc.
-159,DL-1499,N16709,Delta Air Lines Inc.
-160,DL-1547,N16713,Delta Air Lines Inc.
-161,DL-1552,N16732,Delta Air Lines Inc.
-162,DL-1585,N167US,Delta Air Lines Inc.
-163,DL-161,N16911,Delta Air Lines Inc.
-164,DL-1647,N16918,Delta Air Lines Inc.
-165,DL-1685,N16951,Delta Air Lines Inc.
-166,DL-1713,N16961,Delta Air Lines Inc.
-167,DL-1743,N16963,Delta Air Lines Inc.
-168,DL-1747,N16981,Delta Air Lines Inc.
-169,DL-1765,N16987,Delta Air Lines Inc.
-170,DL-1779,N169UW,Delta Air Lines Inc.
-171,DL-1785,N170PQ,Delta Air Lines Inc.
-172,DL-1807,N170US,Delta Air Lines Inc.
-173,DL-1843,N17104,Delta Air Lines Inc.
-174,DL-1847,N17105,Delta Air Lines Inc.
-175,DL-1854,N17108,Delta Air Lines Inc.
-176,DL-1865,N17122,Delta Air Lines Inc.
-177,DL-1879,N17126,Delta Air Lines Inc.
-178,DL-1885,N17128,Delta Air Lines Inc.
-179,DL-1942,N17133,Delta Air Lines Inc.
-180,DL-1947,N17139,Delta Air Lines Inc.
-181,DL-1959,N17185,Delta Air Lines Inc.
-182,DL-1967,N17196,Delta Air Lines Inc.
-183,DL-2003,N171US,Delta Air Lines Inc.
-184,DL-2027,N17229,Delta Air Lines Inc.
-185,DL-2042,N17233,Delta Air Lines Inc.
-186,DL-2043,N17244,Delta Air Lines Inc.
-187,DL-2044,N17245,Delta Air Lines Inc.
-188,DL-2047,N172US,Delta Air Lines Inc.
-189,DL-2057,N173DZ,Delta Air Lines Inc.
-190,DL-2068,N173US,Delta Air Lines Inc.
-191,DL-2071,N174DZ,Delta Air Lines Inc.
-192,DL-2079,N174US,Delta Air Lines Inc.
-193,DL-2115,N17560,Delta Air Lines Inc.
-194,DL-2121,N175DN,Delta Air Lines Inc.
-195,DL-2126,N176DZ,Delta Air Lines Inc.
-196,DL-2139,N176PQ,Delta Air Lines Inc.
-197,DL-2143,N176UW,Delta Air Lines Inc.
-198,DL-2159,N17719,Delta Air Lines Inc.
-199,DL-2190,N177US,Delta Air Lines Inc.
-200,DL-2247,N178DZ,Delta Air Lines Inc.
-201,DL-2263,N178JB,Delta Air Lines Inc.
-202,DL-2285,N178US,Delta Air Lines Inc.
-203,DL-2343,N17984,Delta Air Lines Inc.
-204,DL-2347,N179JB,Delta Air Lines Inc.
-205,DL-2363,N179UW,Delta Air Lines Inc.
-206,DL-2377,N180DN,Delta Air Lines Inc.
-207,DL-2379,N180US,Delta Air Lines Inc.
-208,DL-269,N18102,Delta Air Lines Inc.
-209,DL-27,N18112,Delta Air Lines Inc.
-210,DL-31,N18119,Delta Air Lines Inc.
-211,DL-4,N181DN,Delta Air Lines Inc.
-212,DL-401,N181PQ,Delta Air Lines Inc.
-213,DL-402,N181UW,Delta Air Lines Inc.
-214,DL-461,N18220,Delta Air Lines Inc.
-215,DL-485,N18223,Delta Air Lines Inc.
-216,DL-507,N18243,Delta Air Lines Inc.
-217,DL-513,N182UW,Delta Air Lines Inc.
-218,DL-575,N183JB,Delta Air Lines Inc.
-219,DL-673,N183UW,Delta Air Lines Inc.
-220,DL-695,N184JB,Delta Air Lines Inc.
-221,DL-763,N184US,Delta Air Lines Inc.
-222,DL-781,N18557,Delta Air Lines Inc.
-223,DL-807,N185DN,Delta Air Lines Inc.
-224,DL-83,N185UW,Delta Air Lines Inc.
-225,DL-847,N186DN,Delta Air Lines Inc.
-226,DL-853,N186US,Delta Air Lines Inc.
-227,DL-863,N187JB,Delta Air Lines Inc.
-228,DL-87,N187PQ,Delta Air Lines Inc.
-229,DL-904,N187US,Delta Air Lines Inc.
-230,DL-926,N188US,Delta Air Lines Inc.
-231,DL-930,N189UW,Delta Air Lines Inc.
-232,DL-935,N190JB,Delta Air Lines Inc.
-233,DL-947,N19117,Delta Air Lines Inc.
-234,DL-95,N19130,Delta Air Lines Inc.
-235,DL-951,N19136,Delta Air Lines Inc.
-236,DL-963,N19141,Delta Air Lines Inc.
-237,DL-981,N192JB,Delta Air Lines Inc.
-238,EV-3261,N192UW,ExpressJet Airlines Inc.
-239,EV-3267,N193JB,ExpressJet Airlines Inc.
-240,EV-3273,N193UW,ExpressJet Airlines Inc.
-241,EV-3826,N194UW,ExpressJet Airlines Inc.
-242,EV-3829,N19554,ExpressJet Airlines Inc.
-243,EV-3831,N195DN,ExpressJet Airlines Inc.
-244,EV-3849,N195UW,ExpressJet Airlines Inc.
-245,EV-3850,N196UW,ExpressJet Airlines Inc.
-246,EV-4106,N197JB,ExpressJet Airlines Inc.
-247,EV-4135,N197PQ,ExpressJet Airlines Inc.
-248,EV-4140,N197UW,ExpressJet Airlines Inc.
-249,EV-4153,N198DN,ExpressJet Airlines Inc.
-250,EV-4156,N198JB,ExpressJet Airlines Inc.
-251,EV-4175,N19966,ExpressJet Airlines Inc.
-252,EV-4185,N1EAMQ,ExpressJet Airlines Inc.
-253,EV-4223,N200PQ,ExpressJet Airlines Inc.
-254,EV-4292,N201AA,ExpressJet Airlines Inc.
-255,EV-4326,N203JB,ExpressJet Airlines Inc.
-256,EV-4389,N206JB,ExpressJet Airlines Inc.
-257,EV-4437,N21108,ExpressJet Airlines Inc.
-258,EV-4456,N21129,ExpressJet Airlines Inc.
-259,EV-4471,N21144,ExpressJet Airlines Inc.
-260,EV-4513,N21537,ExpressJet Airlines Inc.
-261,EV-4522,N216JB,ExpressJet Airlines Inc.
-262,EV-4627,N21723,ExpressJet Airlines Inc.
-263,EV-4641,N228JB,ExpressJet Airlines Inc.
-264,EV-4670,N228PQ,ExpressJet Airlines Inc.
-265,EV-4700,N22971,ExpressJet Airlines Inc.
-266,EV-4705,N229JB,ExpressJet Airlines Inc.
-267,EV-4876,N231JB,ExpressJet Airlines Inc.
-268,EV-4935,N232PQ,ExpressJet Airlines Inc.
-269,EV-4950,N236JB,ExpressJet Airlines Inc.
-270,EV-5132,N23708,ExpressJet Airlines Inc.
-271,EV-5621,N238JB,ExpressJet Airlines Inc.
-272,MQ-3695,N239JB,Envoy Air
-273,MQ-3697,N24202,Envoy Air
-274,MQ-3728,N24211,Envoy Air
-275,MQ-3730,N24212,Envoy Air
-276,MQ-3737,N24224,Envoy Air
-277,MQ-3744,N24706,Envoy Air
-278,MQ-3768,N24715,Envoy Air
-279,MQ-3795,N24729,Envoy Air
-280,MQ-4576,N247JB,Envoy Air
-281,MQ-4577,N249JB,Envoy Air
-282,MQ-4579,N25134,Envoy Air
-283,MQ-4582,N25705,Envoy Air
-284,MQ-4584,N258JB,Envoy Air
-285,MQ-4610,N26123,Envoy Air
-286,MQ-4650,N26141,Envoy Air
-287,MQ-4654,N26208,Envoy Air
-288,MQ-4658,N26210,Envoy Air
-289,MQ-4661,N26215,Envoy Air
-290,MQ-4662,N26226,Envoy Air
-291,MQ-4669,N26545,Envoy Air
-292,UA-10,N26549,United Air Lines Inc.
-293,UA-1000,N265JB,United Air Lines Inc.
-294,UA-1001,N266JB,United Air Lines Inc.
-295,UA-1004,N267JB,United Air Lines Inc.
-296,UA-1027,N27152,United Air Lines Inc.
-297,UA-1028,N27200,United Air Lines Inc.
-298,UA-1030,N27205,United Air Lines Inc.
-299,UA-1037,N27213,United Air Lines Inc.
-300,UA-1047,N27239,United Air Lines Inc.
-301,UA-1054,N273JB,United Air Lines Inc.
-302,UA-1059,N27421,United Air Lines Inc.
-303,UA-1064,N274JB,United Air Lines Inc.
-304,UA-1066,N27722,United Air Lines Inc.
-305,UA-1067,N27724,United Air Lines Inc.
-306,UA-1072,N27733,United Air Lines Inc.
-307,UA-1077,N27962,United Air Lines Inc.
-308,UA-1092,N279JB,United Air Lines Inc.
-309,UA-1106,N281JB,United Air Lines Inc.
-310,UA-1108,N283JB,United Air Lines Inc.
-311,UA-1109,N28457,United Air Lines Inc.
-312,UA-1110,N284JB,United Air Lines Inc.
-313,UA-1111,N29124,United Air Lines Inc.
-314,UA-1116,N29129,United Air Lines Inc.
-315,UA-1117,N292JB,United Air Lines Inc.
-316,UA-112,N294JB,United Air Lines Inc.
-317,UA-1120,N296JB,United Air Lines Inc.
-318,UA-1121,N298JB,United Air Lines Inc.
-319,UA-1124,N29906,United Air Lines Inc.
-320,UA-1127,N29917,United Air Lines Inc.
-321,UA-1131,N301DQ,United Air Lines Inc.
-322,UA-1132,N301NB,United Air Lines Inc.
-323,UA-1137,N302DQ,United Air Lines Inc.
-324,UA-1139,N302NB,United Air Lines Inc.
-325,UA-1140,N303DQ,United Air Lines Inc.
-326,UA-1141,N304DQ,United Air Lines Inc.
-327,UA-1142,N304JB,United Air Lines Inc.
-328,UA-1146,N305DQ,United Air Lines Inc.
-329,UA-1150,N306DQ,United Air Lines Inc.
-330,UA-1156,N306JB,United Air Lines Inc.
-331,UA-1158,N307DQ,United Air Lines Inc.
-332,UA-1162,N307JB,United Air Lines Inc.
-333,UA-1164,N308DE,United Air Lines Inc.
-334,UA-1165,N309DE,United Air Lines Inc.
-335,UA-1170,N309JB,United Air Lines Inc.
-336,UA-1172,N309US,United Air Lines Inc.
-337,UA-1174,N310DE,United Air Lines Inc.
-338,UA-1177,N310NW,United Air Lines Inc.
-339,UA-1178,N31131,United Air Lines Inc.
-340,UA-1181,N312US,United Air Lines Inc.
-341,UA-1186,N31412,United Air Lines Inc.
-342,UA-1187,N314NB,United Air Lines Inc.
-343,UA-1195,N315NB,United Air Lines Inc.
-344,UA-1197,N315US,United Air Lines Inc.
-345,UA-1199,N316JB,United Air Lines Inc.
-346,UA-120,N316NB,United Air Lines Inc.
-347,UA-1200,N316US,United Air Lines Inc.
-348,UA-1202,N317JB,United Air Lines Inc.
-349,UA-1205,N317NB,United Air Lines Inc.
-350,UA-1209,N317US,United Air Lines Inc.
-351,UA-1215,N318JB,United Air Lines Inc.
-352,UA-1222,N318NB,United Air Lines Inc.
-353,UA-1223,N318US,United Air Lines Inc.
-354,UA-1230,N319AA,United Air Lines Inc.
-355,UA-1232,N319NB,United Air Lines Inc.
-356,UA-1233,N319US,United Air Lines Inc.
-357,UA-1242,N320AA,United Air Lines Inc.
-358,UA-1243,N320NB,United Air Lines Inc.
-359,UA-1246,N320US,United Air Lines Inc.
-360,UA-1248,N321NB,United Air Lines Inc.
-361,UA-1249,N321US,United Air Lines Inc.
-362,UA-1250,N322AA,United Air Lines Inc.
-363,UA-1262,N322NB,United Air Lines Inc.
-364,UA-1268,N322US,United Air Lines Inc.
-365,UA-1271,N323AA,United Air Lines Inc.
-366,UA-1272,N323JB,United Air Lines Inc.
-367,UA-1275,N323NB,United Air Lines Inc.
-368,UA-1277,N323US,United Air Lines Inc.
-369,UA-1280,N324AA,United Air Lines Inc.
-370,UA-1284,N324JB,United Air Lines Inc.
-371,UA-1285,N324NB,United Air Lines Inc.
-372,UA-1289,N324US,United Air Lines Inc.
-373,UA-1292,N325AA,United Air Lines Inc.
-374,UA-1294,N325NB,United Air Lines Inc.
-375,UA-1296,N325US,United Air Lines Inc.
-376,UA-1297,N326NB,United Air Lines Inc.
-377,UA-1298,N326US,United Air Lines Inc.
-378,UA-1401,N327AA,United Air Lines Inc.
-379,UA-1412,N327NB,United Air Lines Inc.
-380,UA-1417,N327NW,United Air Lines Inc.
-381,UA-1418,N328AA,United Air Lines Inc.
-382,UA-1422,N328JB,United Air Lines Inc.
-383,UA-1425,N328NW,United Air Lines Inc.
-384,UA-1429,N329AA,United Air Lines Inc.
-385,UA-1435,N329JB,United Air Lines Inc.
-386,UA-1437,N329NB,United Air Lines Inc.
-387,UA-1443,N329NW,United Air Lines Inc.
-388,UA-1452,N330NW,United Air Lines Inc.
-389,UA-1462,N33103,United Air Lines Inc.
-390,UA-1480,N33132,United Air Lines Inc.
-391,UA-1482,N331NW,United Air Lines Inc.
-392,UA-1483,N33203,United Air Lines Inc.
-393,UA-1492,N33209,United Air Lines Inc.
-394,UA-1497,N33262,United Air Lines Inc.
-395,UA-1506,N33264,United Air Lines Inc.
-396,UA-1517,N33266,United Air Lines Inc.
-397,UA-1521,N33284,United Air Lines Inc.
-398,UA-1522,N33286,United Air Lines Inc.
-399,UA-1524,N33289,United Air Lines Inc.
-400,UA-1527,N33292,United Air Lines Inc.
-401,UA-1528,N33294,United Air Lines Inc.
-402,UA-1545,N332AA,United Air Lines Inc.
-403,UA-1566,N332NB,United Air Lines Inc.
-404,UA-1570,N332NW,United Air Lines Inc.
-405,UA-1572,N334JB,United Air Lines Inc.
-406,UA-1573,N334NB,United Air Lines Inc.
-407,UA-1574,N334NW,United Air Lines Inc.
-408,UA-1575,N335AA,United Air Lines Inc.
-409,UA-1578,N335NB,United Air Lines Inc.
-410,UA-1579,N335NW,United Air Lines Inc.
-411,UA-1580,N336AA,United Air Lines Inc.
-412,UA-1585,N336NB,United Air Lines Inc.
-413,UA-1592,N336NW,United Air Lines Inc.
-414,UA-1593,N337JB,United Air Lines Inc.
-415,UA-1594,N337NB,United Air Lines Inc.
-416,UA-1595,N337NW,United Air Lines Inc.
-417,UA-1596,N338AA,United Air Lines Inc.
-418,UA-1600,N338NB,United Air Lines Inc.
-419,UA-1601,N338NW,United Air Lines Inc.
-420,UA-1606,N339AA,United Air Lines Inc.
-421,UA-1609,N339JB,United Air Lines Inc.
-422,UA-161,N339NB,United Air Lines Inc.
-423,UA-1616,N339NW,United Air Lines Inc.
-424,UA-162,N340NB,United Air Lines Inc.
-425,UA-1623,N34110,United Air Lines Inc.
-426,UA-1624,N34131,United Air Lines Inc.
-427,UA-1629,N34137,United Air Lines Inc.
-428,UA-1641,N341NB,United Air Lines Inc.
-429,UA-1642,N341NW,United Air Lines Inc.
-430,UA-1656,N34222,United Air Lines Inc.
-431,UA-1657,N34282,United Air Lines Inc.
-432,UA-1665,N342AA,United Air Lines Inc.
-433,UA-1668,N342NB,United Air Lines Inc.
-434,UA-1669,N343AA,United Air Lines Inc.
-435,UA-1671,N343NB,United Air Lines Inc.
-436,UA-1673,N343NW,United Air Lines Inc.
-437,UA-1676,N34455,United Air Lines Inc.
-438,UA-1680,N34460,United Air Lines Inc.
-439,UA-1687,N344AA,United Air Lines Inc.
-440,UA-1690,N344NB,United Air Lines Inc.
-441,UA-1692,N344NW,United Air Lines Inc.
-442,UA-1696,N345AA,United Air Lines Inc.
-443,UA-1698,N345NB,United Air Lines Inc.
-444,UA-1699,N345NW,United Air Lines Inc.
-445,UA-1701,N346AA,United Air Lines Inc.
-446,UA-1702,N346JB,United Air Lines Inc.
-447,UA-1703,N346NB,United Air Lines Inc.
-448,UA-1705,N347NB,United Air Lines Inc.
-449,UA-1708,N347NW,United Air Lines Inc.
-450,UA-1721,N348AA,United Air Lines Inc.
-451,UA-1734,N348JB,United Air Lines Inc.
-452,UA-1736,N348NB,United Air Lines Inc.
-453,UA-1737,N348NW,United Air Lines Inc.
-454,UA-1739,N349AA,United Air Lines Inc.
-455,UA-1741,N349NB,United Air Lines Inc.
-456,UA-194,N349NW,United Air Lines Inc.
-457,UA-222,N350NA,United Air Lines Inc.
-458,UA-223,N351AA,United Air Lines Inc.
-459,UA-225,N351JB,United Air Lines Inc.
-460,UA-235,N351NW,United Air Lines Inc.
-461,UA-238,N35204,United Air Lines Inc.
-462,UA-241,N35260,United Air Lines Inc.
-463,UA-243,N35271,United Air Lines Inc.
-464,UA-244,N352AA,United Air Lines Inc.
-465,UA-250,N352NW,United Air Lines Inc.
-466,UA-252,N353JB,United Air Lines Inc.
-467,UA-255,N353NB,United Air Lines Inc.
-468,UA-256,N353NW,United Air Lines Inc.
-469,UA-257,N35407,United Air Lines Inc.
-470,UA-258,N354AA,United Air Lines Inc.
-471,UA-261,N354NW,United Air Lines Inc.
-472,UA-262,N355AA,United Air Lines Inc.
-473,UA-267,N355NB,United Air Lines Inc.
-474,UA-268,N355NW,United Air Lines Inc.
-475,UA-269,N356AA,United Air Lines Inc.
-476,UA-271,N356NW,United Air Lines Inc.
-477,UA-272,N357AA,United Air Lines Inc.
-478,UA-275,N357NB,United Air Lines Inc.
-479,UA-279,N357NW,United Air Lines Inc.
-480,UA-285,N358AA,United Air Lines Inc.
-481,UA-287,N358NB,United Air Lines Inc.
-482,UA-289,N358NW,United Air Lines Inc.
-483,UA-297,N359NB,United Air Lines Inc.
-484,UA-298,N360AA,United Air Lines Inc.
-485,UA-299,N360NB,United Air Lines Inc.
-486,UA-303,N360NW,United Air Lines Inc.
-487,UA-305,N361AA,United Air Lines Inc.
-488,UA-315,N361NB,United Air Lines Inc.
-489,UA-317,N361NW,United Air Lines Inc.
-490,UA-32,N36207,United Air Lines Inc.
-491,UA-324,N36247,United Air Lines Inc.
-492,UA-325,N36272,United Air Lines Inc.
-493,UA-326,N36280,United Air Lines Inc.
-494,UA-341,N362AA,United Air Lines Inc.
-495,UA-342,N362NW,United Air Lines Inc.
-496,UA-343,N363NW,United Air Lines Inc.
-497,UA-344,N36444,United Air Lines Inc.
-498,UA-345,N36447,United Air Lines Inc.
-499,UA-357,N364AA,United Air Lines Inc.
-500,UA-362,N364NB,United Air Lines Inc.
-501,UA-364,N364NW,United Air Lines Inc.
-502,UA-367,N365AA,United Air Lines Inc.
-503,UA-368,N365NB,United Air Lines Inc.
-504,UA-370,N365NW,United Air Lines Inc.
-505,UA-371,N366NB,United Air Lines Inc.
-506,UA-375,N366NW,United Air Lines Inc.
-507,UA-376,N367NW,United Air Lines Inc.
-508,UA-385,N368NB,United Air Lines Inc.
-509,UA-386,N368NW,United Air Lines Inc.
-510,UA-387,N369NB,United Air Lines Inc.
-511,UA-389,N369NW,United Air Lines Inc.
-512,UA-391,N370AA,United Air Lines Inc.
-513,UA-392,N370NB,United Air Lines Inc.
-514,UA-393,N370NW,United Air Lines Inc.
-515,UA-394,N371AA,United Air Lines Inc.
-516,UA-395,N371CA,United Air Lines Inc.
-517,UA-397,N371DA,United Air Lines Inc.
-518,UA-403,N371NB,United Air Lines Inc.
-519,UA-404,N371NW,United Air Lines Inc.
-520,UA-405,N37252,United Air Lines Inc.
-521,UA-421,N37253,United Air Lines Inc.
-522,UA-425,N37255,United Air Lines Inc.
-523,UA-426,N37263,United Air Lines Inc.
-524,UA-428,N37267,United Air Lines Inc.
-525,UA-433,N37273,United Air Lines Inc.
-526,UA-437,N37274,United Air Lines Inc.
-527,UA-441,N37277,United Air Lines Inc.
-528,UA-443,N37281,United Air Lines Inc.
-529,UA-448,N37287,United Air Lines Inc.
-530,UA-454,N37290,United Air Lines Inc.
-531,UA-456,N37293,United Air Lines Inc.
-532,UA-457,N37298,United Air Lines Inc.
-533,UA-459,N372DA,United Air Lines Inc.
-534,UA-460,N3730B,United Air Lines Inc.
-535,UA-464,N3733Z,United Air Lines Inc.
-536,UA-465,N3734B,United Air Lines Inc.
-537,UA-468,N3735D,United Air Lines Inc.
-538,UA-471,N3739P,United Air Lines Inc.
-539,UA-473,N373AA,United Air Lines Inc.
-540,UA-479,N373DA,United Air Lines Inc.
-541,UA-481,N373NW,United Air Lines Inc.
-542,UA-482,N37408,United Air Lines Inc.
-543,UA-492,N37409,United Air Lines Inc.
-544,UA-501,N3740C,United Air Lines Inc.
-545,UA-512,N37413,United Air Lines Inc.
-546,UA-517,N37420,United Air Lines Inc.
-547,UA-528,N37422,United Air Lines Inc.
-548,UA-529,N37427,United Air Lines Inc.
-549,UA-530,N37434,United Air Lines Inc.
-550,UA-531,N37437,United Air Lines Inc.
-551,UA-532,N3744F,United Air Lines Inc.
-552,UA-535,N37456,United Air Lines Inc.
-553,UA-54,N3745B,United Air Lines Inc.
-554,UA-541,N37462,United Air Lines Inc.
-555,UA-544,N37464,United Air Lines Inc.
-556,UA-548,N37465,United Air Lines Inc.
-557,UA-549,N3746H,United Air Lines Inc.
-558,UA-550,N3747D,United Air Lines Inc.
-559,UA-551,N3748Y,United Air Lines Inc.
-560,UA-552,N3749D,United Air Lines Inc.
-561,UA-559,N374AA,United Air Lines Inc.
-562,UA-560,N374DA,United Air Lines Inc.
-563,UA-561,N374NW,United Air Lines Inc.
-564,UA-562,N3750D,United Air Lines Inc.
-565,UA-570,N3751B,United Air Lines Inc.
-566,UA-572,N3752,United Air Lines Inc.
-567,UA-580,N3753,United Air Lines Inc.
-568,UA-581,N3754A,United Air Lines Inc.
-569,UA-583,N3755D,United Air Lines Inc.
-570,UA-589,N3756,United Air Lines Inc.
-571,UA-595,N3757D,United Air Lines Inc.
-572,UA-597,N3758Y,United Air Lines Inc.
-573,UA-604,N3759,United Air Lines Inc.
-574,UA-611,N375DA,United Air Lines Inc.
-575,UA-617,N3760C,United Air Lines Inc.
-576,UA-619,N3761R,United Air Lines Inc.
-577,UA-620,N3762Y,United Air Lines Inc.
-578,UA-623,N3763D,United Air Lines Inc.
-579,UA-627,N3764D,United Air Lines Inc.
-580,UA-630,N3765,United Air Lines Inc.
-581,UA-642,N3766,United Air Lines Inc.
-582,UA-647,N3767,United Air Lines Inc.
-583,UA-651,N3768,United Air Lines Inc.
-584,UA-655,N3769L,United Air Lines Inc.
-585,UA-665,N376DA,United Air Lines Inc.
-586,UA-668,N376NW,United Air Lines Inc.
-587,UA-669,N37700,United Air Lines Inc.
-588,UA-673,N3771K,United Air Lines Inc.
-589,UA-683,N3773D,United Air Lines Inc.
-590,UA-685,N377AA,United Air Lines Inc.
-591,UA-687,N377DA,United Air Lines Inc.
-592,UA-688,N377NW,United Air Lines Inc.
-593,UA-689,N378NW,United Air Lines Inc.
-594,UA-691,N379DA,United Air Lines Inc.
-595,UA-695,N380AA,United Air Lines Inc.
-596,UA-698,N380DA,United Air Lines Inc.
-597,UA-701,N381DN,United Air Lines Inc.
-598,UA-702,N38257,United Air Lines Inc.
-599,UA-703,N38268,United Air Lines Inc.
-600,UA-708,N382DA,United Air Lines Inc.
-601,UA-711,N383AA,United Air Lines Inc.
-602,UA-714,N383DN,United Air Lines Inc.
-603,UA-717,N38403,United Air Lines Inc.
-604,UA-72,N38417,United Air Lines Inc.
-605,UA-720,N38424,United Air Lines Inc.
-606,UA-726,N38443,United Air Lines Inc.
-607,UA-73,N38446,United Air Lines Inc.
-608,UA-733,N38454,United Air Lines Inc.
-609,UA-734,N38458,United Air Lines Inc.
-610,UA-741,N38459,United Air Lines Inc.
-611,UA-746,N384AA,United Air Lines Inc.
-612,UA-750,N384DA,United Air Lines Inc.
-613,UA-762,N385AA,United Air Lines Inc.
-614,UA-771,N385DN,United Air Lines Inc.
-615,UA-772,N386AA,United Air Lines Inc.
-616,UA-775,N386DA,United Air Lines Inc.
-617,UA-779,N38727,United Air Lines Inc.
-618,UA-782,N387DA,United Air Lines Inc.
-619,UA-785,N388AA,United Air Lines Inc.
-620,UA-789,N388DA,United Air Lines Inc.
-621,UA-791,N389DA,United Air Lines Inc.
-622,UA-799,N390AA,United Air Lines Inc.
-623,UA-80,N390DA,United Air Lines Inc.
-624,UA-808,N391AA,United Air Lines Inc.
-625,UA-816,N391DA,United Air Lines Inc.
-626,UA-852,N39297,United Air Lines Inc.
-627,UA-856,N392DA,United Air Lines Inc.
-628,UA-871,N393AA,United Air Lines Inc.
-629,UA-872,N393DA,United Air Lines Inc.
-630,UA-890,N39423,United Air Lines Inc.
-631,UA-894,N39450,United Air Lines Inc.
-632,UA-906,N39461,United Air Lines Inc.
-633,UA-910,N39463,United Air Lines Inc.
-634,UA-926,N394AA,United Air Lines Inc.
-635,UA-927,N394DA,United Air Lines Inc.
-636,UA-954,N395AA,United Air Lines Inc.
-637,UA-963,N395DN,United Air Lines Inc.
-638,UA-974,N396AA,United Air Lines Inc.
-639,UA-979,N39728,United Air Lines Inc.
-640,UA-980,N397DA,United Air Lines Inc.
-641,UA-984,N398AA,United Air Lines Inc.
-642,UA-985,N398CA,United Air Lines Inc.
-643,UA-994,N398DA,United Air Lines Inc.
-644,UA-997,N399AA,United Air Lines Inc.
-645,US-1019,N399DA,US Airways Inc.
-646,US-1030,N3AAAA,US Airways Inc.
-647,US-1036,N3ABAA,US Airways Inc.
-648,US-1048,N3ACAA,US Airways Inc.
-649,US-1055,N3ADAA,US Airways Inc.
-650,US-1057,N3AEMQ,US Airways Inc.
-651,US-1059,N3AFAA,US Airways Inc.
-652,US-1085,N3AHAA,US Airways Inc.
-653,US-1103,N3AJAA,US Airways Inc.
-654,US-1105,N3AKAA,US Airways Inc.
-655,US-1117,N3ALAA,US Airways Inc.
-656,US-1125,N3AMAA,US Airways Inc.
-657,US-1177,N3ANAA,US Airways Inc.
-658,US-123,N3APAA,US Airways Inc.
-659,US-1250,N3ARAA,US Airways Inc.
-660,US-1269,N3ASAA,US Airways Inc.
-661,US-1277,N3AUAA,US Airways Inc.
-662,US-1427,N3AVAA,US Airways Inc.
-663,US-1429,N3AWAA,US Airways Inc.
-664,US-1433,N3AXAA,US Airways Inc.
-665,US-1437,N3AYAA,US Airways Inc.
-666,US-1441,N3BAAA,US Airways Inc.
-667,US-1443,N3BBAA,US Airways Inc.
-668,US-1445,N3BCAA,US Airways Inc.
-669,US-1447,N3BEAA,US Airways Inc.
-670,US-1459,N3BFAA,US Airways Inc.
-671,US-1485,N3BGAA,US Airways Inc.
-672,US-1491,N3BHAA,US Airways Inc.
-673,US-1507,N3BJAA,US Airways Inc.
-674,US-1567,N3BKAA,US Airways Inc.
-675,US-1575,N3BLAA,US Airways Inc.
-676,US-1615,N3BMAA,US Airways Inc.
-677,US-1625,N3BNAA,US Airways Inc.
-678,US-1629,N3BPAA,US Airways Inc.
-679,US-1641,N3BRAA,US Airways Inc.
-680,US-1643,N3BUAA,US Airways Inc.
-681,US-1665,N3BVAA,US Airways Inc.
-682,US-1723,N3BWAA,US Airways Inc.
-683,US-1733,N3BXAA,US Airways Inc.
-684,US-1753,N3BYAA,US Airways Inc.
-685,US-1791,N3CAAA,US Airways Inc.
-686,US-1895,N3CCAA,US Airways Inc.
-687,US-1973,N3CDAA,US Airways Inc.
-688,US-2114,N3CEAA,US Airways Inc.
-689,US-2116,N3CFAA,US Airways Inc.
-690,US-2118,N3CHAA,US Airways Inc.
-691,US-2120,N3CJAA,US Airways Inc.
-692,US-2122,N3CKAA,US Airways Inc.
-693,US-2124,N3CLAA,US Airways Inc.
-694,US-2126,N3CNAA,US Airways Inc.
-695,US-2128,N3CRAA,US Airways Inc.
-696,US-2130,N3CSAA,US Airways Inc.
-697,US-2132,N3CUAA,US Airways Inc.
-698,US-2134,N3CVAA,US Airways Inc.
-699,US-2136,N3CWAA,US Airways Inc.
-700,US-2138,N3CXAA,US Airways Inc.
-701,US-2140,N3CYAA,US Airways Inc.
-702,US-2142,N3DAAA,US Airways Inc.
-703,US-2144,N3DBAA,US Airways Inc.
-704,US-373,N3DCAA,US Airways Inc.
-705,US-375,N3DDAA,US Airways Inc.
-706,US-449,N3DEAA,US Airways Inc.
-707,US-487,N3DFAA,US Airways Inc.
-708,US-675,N3DGAA,US Airways Inc.
-709,US-681,N3DHAA,US Airways Inc.
-710,US-720,N3DLAA,US Airways Inc.
-711,US-819,N3DMAA,US Airways Inc.
-712,US-887,N3DNAA,US Airways Inc.
-713,US-894,N3DRAA,US Airways Inc.
-714,US-926,N3DSAA,US Airways Inc.
-715,US-947,N3DUAA,US Airways Inc.
-716,US-975,N3DVAA,US Airways Inc.
+id,flight_code,tailnum,airline,flight_ref
+1,9E-3331,N0EGMQ,Endeavor Air Inc.,2915-N0EGMQ-9E-3331
+2,9E-3338,N10156,Endeavor Air Inc.,4779-N10156-9E-3338
+3,9E-3359,N103US,Endeavor Air Inc.,9337-N103US-9E-3359
+4,9E-3422,N104UW,Endeavor Air Inc.,4404-N104UW-9E-3422
+5,9E-3452,N107US,Endeavor Air Inc.,6945-N107US-9E-3452
+6,9E-3453,N108UW,Endeavor Air Inc.,1365-N108UW-9E-3453
+7,9E-3483,N109UW,Endeavor Air Inc.,3940-N109UW-9E-3483
+8,9E-3521,N110UW,Endeavor Air Inc.,3375-N110UW-9E-3521
+9,9E-3523,N11109,Endeavor Air Inc.,7189-N11109-9E-3523
+10,9E-3525,N11119,Endeavor Air Inc.,3800-N11119-9E-3525
+11,9E-3793,N11140,Endeavor Air Inc.,6361-N11140-9E-3793
+12,9E-3798,N11150,Endeavor Air Inc.,5917-N11150-9E-3798
+13,9E-3856,N11155,Endeavor Air Inc.,7822-N11155-9E-3856
+14,AA-1,N11164,American Airlines Inc.,3933-N11164-AA-1
+15,AA-1039,N11184,American Airlines Inc.,2191-N11184-AA-1039
+16,AA-1073,N11187,American Airlines Inc.,1933-N11187-AA-1073
+17,AA-1141,N11191,American Airlines Inc.,9965-N11191-AA-1141
+18,AA-117,N11192,American Airlines Inc.,4478-N11192-AA-117
+19,AA-119,N11194,American Airlines Inc.,8641-N11194-AA-119
+20,AA-133,N111US,American Airlines Inc.,4890-N111US-AA-133
+21,AA-1351,N11206,American Airlines Inc.,1578-N11206-AA-1351
+22,AA-1467,N112US,American Airlines Inc.,7677-N112US-AA-1467
+23,AA-1611,N113UW,American Airlines Inc.,8419-N113UW-AA-1611
+24,AA-1623,N114UW,American Airlines Inc.,6470-N114UW-AA-1623
+25,AA-1709,N11535,American Airlines Inc.,1310-N11535-AA-1709
+26,AA-1762,N11544,American Airlines Inc.,8661-N11544-AA-1762
+27,AA-1769,N11565,American Airlines Inc.,7939-N11565-AA-1769
+28,AA-177,N117UW,American Airlines Inc.,8435-N117UW-AA-177
+29,AA-179,N118US,American Airlines Inc.,3883-N118US-AA-179
+30,AA-1790,N1201P,American Airlines Inc.,4043-N1201P-AA-1790
+31,AA-181,N12114,American Airlines Inc.,3401-N12114-AA-181
+32,AA-1813,N12116,American Airlines Inc.,9167-N12116-AA-1813
+33,AA-1815,N12125,American Airlines Inc.,2226-N12125-AA-1815
+34,AA-1837,N12126,American Airlines Inc.,6296-N12126-AA-1837
+35,AA-1838,N12142,American Airlines Inc.,4913-N12142-AA-1838
+36,AA-185,N12160,American Airlines Inc.,2889-N12160-AA-185
+37,AA-1850,N12167,American Airlines Inc.,1885-N12167-AA-1850
+38,AA-1871,N12175,American Airlines Inc.,6584-N12175-AA-1871
+39,AA-1895,N12195,American Airlines Inc.,6382-N12195-AA-1895
+40,AA-19,N12216,American Airlines Inc.,8091-N12216-AA-19
+41,AA-1925,N12218,American Airlines Inc.,7515-N12218-AA-1925
+42,AA-1999,N12221,American Airlines Inc.,7867-N12221-AA-1999
+43,AA-2041,N12225,American Airlines Inc.,6654-N12225-AA-2041
+44,AA-2099,N12238,American Airlines Inc.,2691-N12238-AA-2099
+45,AA-21,N123UW,American Airlines Inc.,2003-N123UW-AA-21
+46,AA-2253,N124US,American Airlines Inc.,1280-N124US-AA-2253
+47,AA-2267,N12540,American Airlines Inc.,9923-N12540-AA-2267
+48,AA-2279,N12552,American Airlines Inc.,7717-N12552-AA-2279
+49,AA-3,N12564,American Airlines Inc.,6054-N12564-AA-3
+50,AA-301,N12567,American Airlines Inc.,1807-N12567-AA-301
+51,AA-303,N12569,American Airlines Inc.,8404-N12569-AA-303
+52,AA-305,N125UW,American Airlines Inc.,5281-N125UW-AA-305
+53,AA-309,N126UW,American Airlines Inc.,5323-N126UW-AA-309
+54,AA-313,N127UW,American Airlines Inc.,6193-N127UW-AA-313
+55,AA-319,N12900,American Airlines Inc.,2198-N12900-AA-319
+56,AA-321,N12921,American Airlines Inc.,1209-N12921-AA-321
+57,AA-327,N12922,American Airlines Inc.,3490-N12922-AA-327
+58,AA-329,N12924,American Airlines Inc.,5123-N12924-AA-329
+59,AA-33,N12957,American Airlines Inc.,7583-N12957-AA-33
+60,AA-337,N12967,American Airlines Inc.,4242-N12967-AA-337
+61,AA-341,N12996,American Airlines Inc.,2968-N12996-AA-341
+62,AA-345,N13110,American Airlines Inc.,5917-N13110-AA-345
+63,AA-353,N13113,American Airlines Inc.,1550-N13113-AA-353
+64,AA-359,N13118,American Airlines Inc.,8347-N13118-AA-359
+65,AA-371,N13124,American Airlines Inc.,6012-N13124-AA-371
+66,AA-415,N13133,American Airlines Inc.,4869-N13133-AA-415
+67,AA-443,N13138,American Airlines Inc.,6730-N13138-AA-443
+68,AA-543,N13202,American Airlines Inc.,1851-N13202-AA-543
+69,AA-59,N13248,American Airlines Inc.,3048-N13248-AA-59
+70,AA-647,N13550,American Airlines Inc.,8160-N13550-AA-647
+71,AA-825,N13553,American Airlines Inc.,3675-N13553-AA-825
+72,AA-85,N13718,American Airlines Inc.,6368-N13718-AA-85
+73,B6-1,N13750,JetBlue Airways,1432-N13750-B6-1
+74,B6-1002,N13908,JetBlue Airways,4886-N13908-B6-1002
+75,B6-1004,N13913,JetBlue Airways,1191-N13913-B6-1004
+76,B6-1006,N13914,JetBlue Airways,2049-N13914-B6-1006
+77,B6-1010,N13949,JetBlue Airways,1541-N13949-B6-1010
+78,B6-1016,N13956,JetBlue Airways,5004-N13956-B6-1016
+79,B6-1018,N13958,JetBlue Airways,3432-N13958-B6-1018
+80,B6-1020,N13964,JetBlue Airways,3049-N13964-B6-1020
+81,B6-1026,N13965,JetBlue Airways,7686-N13965-B6-1026
+82,B6-1085,N13969,JetBlue Airways,7370-N13969-B6-1085
+83,B6-11,N13970,JetBlue Airways,6423-N13970-B6-11
+84,B6-1172,N13978,JetBlue Airways,9740-N13978-B6-1172
+85,B6-1174,N13979,JetBlue Airways,7734-N13979-B6-1174
+86,B6-1176,N13989,JetBlue Airways,7589-N13989-B6-1176
+87,B6-1178,N13994,JetBlue Airways,3777-N13994-B6-1178
+88,B6-125,N13995,JetBlue Airways,1647-N13995-B6-125
+89,B6-1383,N14102,JetBlue Airways,8770-N14102-B6-1383
+90,B6-15,N14105,JetBlue Airways,7461-N14105-B6-15
+91,B6-153,N14106,JetBlue Airways,4662-N14106-B6-153
+92,B6-155,N14107,JetBlue Airways,6976-N14107-B6-155
+93,B6-157,N14115,JetBlue Airways,5133-N14115-B6-157
+94,B6-17,N14118,JetBlue Airways,4571-N14118-B6-17
+95,B6-1783,N14120,JetBlue Airways,5874-N14120-B6-1783
+96,B6-1806,N14121,JetBlue Airways,3663-N14121-B6-1806
+97,B6-219,N14143,JetBlue Airways,3298-N14143-B6-219
+98,B6-227,N14153,JetBlue Airways,5257-N14153-B6-227
+99,B6-25,N14177,JetBlue Airways,7363-N14177-B6-25
+100,B6-3,N14188,JetBlue Airways,3049-N14188-B6-3
+101,B6-31,N14214,JetBlue Airways,6157-N14214-B6-31
+102,B6-371,N14219,JetBlue Airways,4254-N14219-B6-371
+103,B6-373,N14228,JetBlue Airways,4512-N14228-B6-373
+104,B6-375,N14230,JetBlue Airways,3221-N14230-B6-375
+105,B6-377,N14231,JetBlue Airways,8667-N14231-B6-377
+106,B6-380,N14237,JetBlue Airways,5032-N14237-B6-380
+107,B6-381,N14242,JetBlue Airways,6326-N14242-B6-381
+108,B6-383,N14250,JetBlue Airways,6104-N14250-B6-383
+109,B6-389,N14542,JetBlue Airways,7131-N14542-B6-389
+110,B6-391,N14543,JetBlue Airways,1555-N14543-B6-391
+111,B6-393,N14558,JetBlue Airways,8770-N14558-B6-393
+112,B6-399,N14568,JetBlue Airways,7909-N14568-B6-399
+113,B6-41,N14570,JetBlue Airways,4034-N14570-B6-41
+114,B6-43,N14573,JetBlue Airways,9195-N14573-B6-43
+115,B6-47,N146PQ,JetBlue Airways,9982-N146PQ-B6-47
+116,B6-503,N14902,JetBlue Airways,2975-N14902-B6-503
+117,B6-505,N14904,JetBlue Airways,6928-N14904-B6-505
+118,B6-507,N14907,JetBlue Airways,5320-N14907-B6-507
+119,B6-509,N14916,JetBlue Airways,5299-N14916-B6-509
+120,B6-515,N14923,JetBlue Airways,4614-N14923-B6-515
+121,B6-517,N14952,JetBlue Airways,3492-N14952-B6-517
+122,B6-523,N14953,JetBlue Airways,2188-N14953-B6-523
+123,B6-525,N14959,JetBlue Airways,4182-N14959-B6-525
+124,B6-527,N14960,JetBlue Airways,8663-N14960-B6-527
+125,B6-529,N14977,JetBlue Airways,6885-N14977-B6-529
+126,B6-61,N14991,JetBlue Airways,6256-N14991-B6-61
+127,B6-641,N14998,JetBlue Airways,7232-N14998-B6-641
+128,B6-643,N153PQ,JetBlue Airways,2425-N153PQ-B6-643
+129,B6-645,N15572,JetBlue Airways,5633-N15572-B6-645
+130,B6-671,N15574,JetBlue Airways,2298-N15574-B6-671
+131,B6-673,N155DL,JetBlue Airways,2146-N155DL-B6-673
+132,B6-675,N15710,JetBlue Airways,1135-N15710-B6-675
+133,B6-677,N15712,JetBlue Airways,3667-N15712-B6-677
+134,B6-679,N15910,JetBlue Airways,8064-N15910-B6-679
+135,B6-79,N15973,JetBlue Airways,4316-N15973-B6-79
+136,B6-801,N15983,JetBlue Airways,9703-N15983-B6-801
+137,B6-85,N15985,JetBlue Airways,4452-N15985-B6-85
+138,B6-9,N15986,JetBlue Airways,7255-N15986-B6-9
+139,B6-905,N1602,JetBlue Airways,5905-N1602-B6-905
+140,B6-917,N1605,JetBlue Airways,2621-N1605-B6-917
+141,B6-981,N1608,JetBlue Airways,2493-N1608-B6-981
+142,B6-987,N1609,JetBlue Airways,3424-N1609-B6-987
+143,B6-989,N1611B,JetBlue Airways,4763-N1611B-B6-989
+144,DL-1047,N1612T,Delta Air Lines Inc.,6193-N1612T-DL-1047
+145,DL-1139,N1613B,Delta Air Lines Inc.,8543-N1613B-DL-1139
+146,DL-1147,N16147,Delta Air Lines Inc.,1270-N16147-DL-1147
+147,DL-120,N16151,Delta Air Lines Inc.,5786-N16151-DL-120
+148,DL-1247,N16183,Delta Air Lines Inc.,3369-N16183-DL-1247
+149,DL-127,N161PQ,Delta Air Lines Inc.,6434-N161PQ-DL-127
+150,DL-1271,N161UW,Delta Air Lines Inc.,7944-N161UW-DL-1271
+151,DL-1318,N16217,Delta Air Lines Inc.,7200-N16217-DL-1318
+152,DL-1322,N16234,Delta Air Lines Inc.,8334-N16234-DL-1322
+153,DL-1411,N162UW,Delta Air Lines Inc.,7309-N162UW-DL-1411
+154,DL-1443,N163US,Delta Air Lines Inc.,1842-N163US-DL-1443
+155,DL-1447,N16561,Delta Air Lines Inc.,8162-N16561-DL-1447
+156,DL-1465,N16571,Delta Air Lines Inc.,5957-N16571-DL-1465
+157,DL-1467,N16701,Delta Air Lines Inc.,3126-N16701-DL-1467
+158,DL-1485,N16703,Delta Air Lines Inc.,5051-N16703-DL-1485
+159,DL-1499,N16709,Delta Air Lines Inc.,7952-N16709-DL-1499
+160,DL-1547,N16713,Delta Air Lines Inc.,5512-N16713-DL-1547
+161,DL-1552,N16732,Delta Air Lines Inc.,2586-N16732-DL-1552
+162,DL-1585,N167US,Delta Air Lines Inc.,2601-N167US-DL-1585
+163,DL-161,N16911,Delta Air Lines Inc.,6869-N16911-DL-161
+164,DL-1647,N16918,Delta Air Lines Inc.,5692-N16918-DL-1647
+165,DL-1685,N16951,Delta Air Lines Inc.,8989-N16951-DL-1685
+166,DL-1713,N16961,Delta Air Lines Inc.,4197-N16961-DL-1713
+167,DL-1743,N16963,Delta Air Lines Inc.,5570-N16963-DL-1743
+168,DL-1747,N16981,Delta Air Lines Inc.,6435-N16981-DL-1747
+169,DL-1765,N16987,Delta Air Lines Inc.,5977-N16987-DL-1765
+170,DL-1779,N169UW,Delta Air Lines Inc.,9156-N169UW-DL-1779
+171,DL-1785,N170PQ,Delta Air Lines Inc.,4096-N170PQ-DL-1785
+172,DL-1807,N170US,Delta Air Lines Inc.,6781-N170US-DL-1807
+173,DL-1843,N17104,Delta Air Lines Inc.,8906-N17104-DL-1843
+174,DL-1847,N17105,Delta Air Lines Inc.,3914-N17105-DL-1847
+175,DL-1854,N17108,Delta Air Lines Inc.,6327-N17108-DL-1854
+176,DL-1865,N17122,Delta Air Lines Inc.,6394-N17122-DL-1865
+177,DL-1879,N17126,Delta Air Lines Inc.,5439-N17126-DL-1879
+178,DL-1885,N17128,Delta Air Lines Inc.,3874-N17128-DL-1885
+179,DL-1942,N17133,Delta Air Lines Inc.,3483-N17133-DL-1942
+180,DL-1947,N17139,Delta Air Lines Inc.,9045-N17139-DL-1947
+181,DL-1959,N17185,Delta Air Lines Inc.,3955-N17185-DL-1959
+182,DL-1967,N17196,Delta Air Lines Inc.,6807-N17196-DL-1967
+183,DL-2003,N171US,Delta Air Lines Inc.,8032-N171US-DL-2003
+184,DL-2027,N17229,Delta Air Lines Inc.,7463-N17229-DL-2027
+185,DL-2042,N17233,Delta Air Lines Inc.,4886-N17233-DL-2042
+186,DL-2043,N17244,Delta Air Lines Inc.,7752-N17244-DL-2043
+187,DL-2044,N17245,Delta Air Lines Inc.,6932-N17245-DL-2044
+188,DL-2047,N172US,Delta Air Lines Inc.,8317-N172US-DL-2047
+189,DL-2057,N173DZ,Delta Air Lines Inc.,5789-N173DZ-DL-2057
+190,DL-2068,N173US,Delta Air Lines Inc.,7678-N173US-DL-2068
+191,DL-2071,N174DZ,Delta Air Lines Inc.,9261-N174DZ-DL-2071
+192,DL-2079,N174US,Delta Air Lines Inc.,8308-N174US-DL-2079
+193,DL-2115,N17560,Delta Air Lines Inc.,1154-N17560-DL-2115
+194,DL-2121,N175DN,Delta Air Lines Inc.,8126-N175DN-DL-2121
+195,DL-2126,N176DZ,Delta Air Lines Inc.,2554-N176DZ-DL-2126
+196,DL-2139,N176PQ,Delta Air Lines Inc.,4358-N176PQ-DL-2139
+197,DL-2143,N176UW,Delta Air Lines Inc.,3247-N176UW-DL-2143
+198,DL-2159,N17719,Delta Air Lines Inc.,9341-N17719-DL-2159
+199,DL-2190,N177US,Delta Air Lines Inc.,3499-N177US-DL-2190
+200,DL-2247,N178DZ,Delta Air Lines Inc.,2875-N178DZ-DL-2247
+201,DL-2263,N178JB,Delta Air Lines Inc.,4687-N178JB-DL-2263
+202,DL-2285,N178US,Delta Air Lines Inc.,4927-N178US-DL-2285
+203,DL-2343,N17984,Delta Air Lines Inc.,2339-N17984-DL-2343
+204,DL-2347,N179JB,Delta Air Lines Inc.,1743-N179JB-DL-2347
+205,DL-2363,N179UW,Delta Air Lines Inc.,5064-N179UW-DL-2363
+206,DL-2377,N180DN,Delta Air Lines Inc.,8158-N180DN-DL-2377
+207,DL-2379,N180US,Delta Air Lines Inc.,2488-N180US-DL-2379
+208,DL-269,N18102,Delta Air Lines Inc.,3577-N18102-DL-269
+209,DL-27,N18112,Delta Air Lines Inc.,9403-N18112-DL-27
+210,DL-31,N18119,Delta Air Lines Inc.,2764-N18119-DL-31
+211,DL-4,N181DN,Delta Air Lines Inc.,3210-N181DN-DL-4
+212,DL-401,N181PQ,Delta Air Lines Inc.,5574-N181PQ-DL-401
+213,DL-402,N181UW,Delta Air Lines Inc.,9186-N181UW-DL-402
+214,DL-461,N18220,Delta Air Lines Inc.,2581-N18220-DL-461
+215,DL-485,N18223,Delta Air Lines Inc.,3211-N18223-DL-485
+216,DL-507,N18243,Delta Air Lines Inc.,4222-N18243-DL-507
+217,DL-513,N182UW,Delta Air Lines Inc.,7563-N182UW-DL-513
+218,DL-575,N183JB,Delta Air Lines Inc.,4476-N183JB-DL-575
+219,DL-673,N183UW,Delta Air Lines Inc.,9775-N183UW-DL-673
+220,DL-695,N184JB,Delta Air Lines Inc.,2825-N184JB-DL-695
+221,DL-763,N184US,Delta Air Lines Inc.,4389-N184US-DL-763
+222,DL-781,N18557,Delta Air Lines Inc.,5492-N18557-DL-781
+223,DL-807,N185DN,Delta Air Lines Inc.,6866-N185DN-DL-807
+224,DL-83,N185UW,Delta Air Lines Inc.,5385-N185UW-DL-83
+225,DL-847,N186DN,Delta Air Lines Inc.,4524-N186DN-DL-847
+226,DL-853,N186US,Delta Air Lines Inc.,9297-N186US-DL-853
+227,DL-863,N187JB,Delta Air Lines Inc.,3035-N187JB-DL-863
+228,DL-87,N187PQ,Delta Air Lines Inc.,5689-N187PQ-DL-87
+229,DL-904,N187US,Delta Air Lines Inc.,2593-N187US-DL-904
+230,DL-926,N188US,Delta Air Lines Inc.,9966-N188US-DL-926
+231,DL-930,N189UW,Delta Air Lines Inc.,3246-N189UW-DL-930
+232,DL-935,N190JB,Delta Air Lines Inc.,2207-N190JB-DL-935
+233,DL-947,N19117,Delta Air Lines Inc.,8925-N19117-DL-947
+234,DL-95,N19130,Delta Air Lines Inc.,9813-N19130-DL-95
+235,DL-951,N19136,Delta Air Lines Inc.,6144-N19136-DL-951
+236,DL-963,N19141,Delta Air Lines Inc.,9104-N19141-DL-963
+237,DL-981,N192JB,Delta Air Lines Inc.,3943-N192JB-DL-981
+238,EV-3261,N192UW,ExpressJet Airlines Inc.,8406-N192UW-EV-3261
+239,EV-3267,N193JB,ExpressJet Airlines Inc.,7400-N193JB-EV-3267
+240,EV-3273,N193UW,ExpressJet Airlines Inc.,8978-N193UW-EV-3273
+241,EV-3826,N194UW,ExpressJet Airlines Inc.,9348-N194UW-EV-3826
+242,EV-3829,N19554,ExpressJet Airlines Inc.,3341-N19554-EV-3829
+243,EV-3831,N195DN,ExpressJet Airlines Inc.,5846-N195DN-EV-3831
+244,EV-3849,N195UW,ExpressJet Airlines Inc.,8488-N195UW-EV-3849
+245,EV-3850,N196UW,ExpressJet Airlines Inc.,1843-N196UW-EV-3850
+246,EV-4106,N197JB,ExpressJet Airlines Inc.,6409-N197JB-EV-4106
+247,EV-4135,N197PQ,ExpressJet Airlines Inc.,3153-N197PQ-EV-4135
+248,EV-4140,N197UW,ExpressJet Airlines Inc.,3263-N197UW-EV-4140
+249,EV-4153,N198DN,ExpressJet Airlines Inc.,6147-N198DN-EV-4153
+250,EV-4156,N198JB,ExpressJet Airlines Inc.,3505-N198JB-EV-4156
+251,EV-4175,N19966,ExpressJet Airlines Inc.,7273-N19966-EV-4175
+252,EV-4185,N1EAMQ,ExpressJet Airlines Inc.,1187-N1EAMQ-EV-4185
+253,EV-4223,N200PQ,ExpressJet Airlines Inc.,9823-N200PQ-EV-4223
+254,EV-4292,N201AA,ExpressJet Airlines Inc.,1699-N201AA-EV-4292
+255,EV-4326,N203JB,ExpressJet Airlines Inc.,9406-N203JB-EV-4326
+256,EV-4389,N206JB,ExpressJet Airlines Inc.,4557-N206JB-EV-4389
+257,EV-4437,N21108,ExpressJet Airlines Inc.,7252-N21108-EV-4437
+258,EV-4456,N21129,ExpressJet Airlines Inc.,7975-N21129-EV-4456
+259,EV-4471,N21144,ExpressJet Airlines Inc.,3925-N21144-EV-4471
+260,EV-4513,N21537,ExpressJet Airlines Inc.,4221-N21537-EV-4513
+261,EV-4522,N216JB,ExpressJet Airlines Inc.,7560-N216JB-EV-4522
+262,EV-4627,N21723,ExpressJet Airlines Inc.,4726-N21723-EV-4627
+263,EV-4641,N228JB,ExpressJet Airlines Inc.,6586-N228JB-EV-4641
+264,EV-4670,N228PQ,ExpressJet Airlines Inc.,6875-N228PQ-EV-4670
+265,EV-4700,N22971,ExpressJet Airlines Inc.,6902-N22971-EV-4700
+266,EV-4705,N229JB,ExpressJet Airlines Inc.,9686-N229JB-EV-4705
+267,EV-4876,N231JB,ExpressJet Airlines Inc.,7347-N231JB-EV-4876
+268,EV-4935,N232PQ,ExpressJet Airlines Inc.,1128-N232PQ-EV-4935
+269,EV-4950,N236JB,ExpressJet Airlines Inc.,3072-N236JB-EV-4950
+270,EV-5132,N23708,ExpressJet Airlines Inc.,5874-N23708-EV-5132
+271,EV-5621,N238JB,ExpressJet Airlines Inc.,2302-N238JB-EV-5621
+272,MQ-3695,N239JB,Envoy Air,2514-N239JB-MQ-3695
+273,MQ-3697,N24202,Envoy Air,9846-N24202-MQ-3697
+274,MQ-3728,N24211,Envoy Air,5311-N24211-MQ-3728
+275,MQ-3730,N24212,Envoy Air,2865-N24212-MQ-3730
+276,MQ-3737,N24224,Envoy Air,7035-N24224-MQ-3737
+277,MQ-3744,N24706,Envoy Air,9226-N24706-MQ-3744
+278,MQ-3768,N24715,Envoy Air,9048-N24715-MQ-3768
+279,MQ-3795,N24729,Envoy Air,7993-N24729-MQ-3795
+280,MQ-4576,N247JB,Envoy Air,1481-N247JB-MQ-4576
+281,MQ-4577,N249JB,Envoy Air,9387-N249JB-MQ-4577
+282,MQ-4579,N25134,Envoy Air,5448-N25134-MQ-4579
+283,MQ-4582,N25705,Envoy Air,1180-N25705-MQ-4582
+284,MQ-4584,N258JB,Envoy Air,6158-N258JB-MQ-4584
+285,MQ-4610,N26123,Envoy Air,6317-N26123-MQ-4610
+286,MQ-4650,N26141,Envoy Air,3132-N26141-MQ-4650
+287,MQ-4654,N26208,Envoy Air,1927-N26208-MQ-4654
+288,MQ-4658,N26210,Envoy Air,9884-N26210-MQ-4658
+289,MQ-4661,N26215,Envoy Air,1691-N26215-MQ-4661
+290,MQ-4662,N26226,Envoy Air,8966-N26226-MQ-4662
+291,MQ-4669,N26545,Envoy Air,4703-N26545-MQ-4669
+292,UA-10,N26549,United Air Lines Inc.,5665-N26549-UA-10
+293,UA-1000,N265JB,United Air Lines Inc.,6518-N265JB-UA-1000
+294,UA-1001,N266JB,United Air Lines Inc.,3916-N266JB-UA-1001
+295,UA-1004,N267JB,United Air Lines Inc.,3688-N267JB-UA-1004
+296,UA-1027,N27152,United Air Lines Inc.,7695-N27152-UA-1027
+297,UA-1028,N27200,United Air Lines Inc.,1721-N27200-UA-1028
+298,UA-1030,N27205,United Air Lines Inc.,7853-N27205-UA-1030
+299,UA-1037,N27213,United Air Lines Inc.,2165-N27213-UA-1037
+300,UA-1047,N27239,United Air Lines Inc.,7758-N27239-UA-1047
+301,UA-1054,N273JB,United Air Lines Inc.,1762-N273JB-UA-1054
+302,UA-1059,N27421,United Air Lines Inc.,6191-N27421-UA-1059
+303,UA-1064,N274JB,United Air Lines Inc.,8429-N274JB-UA-1064
+304,UA-1066,N27722,United Air Lines Inc.,2944-N27722-UA-1066
+305,UA-1067,N27724,United Air Lines Inc.,1700-N27724-UA-1067
+306,UA-1072,N27733,United Air Lines Inc.,2745-N27733-UA-1072
+307,UA-1077,N27962,United Air Lines Inc.,5229-N27962-UA-1077
+308,UA-1092,N279JB,United Air Lines Inc.,3158-N279JB-UA-1092
+309,UA-1106,N281JB,United Air Lines Inc.,9985-N281JB-UA-1106
+310,UA-1108,N283JB,United Air Lines Inc.,1582-N283JB-UA-1108
+311,UA-1109,N28457,United Air Lines Inc.,8474-N28457-UA-1109
+312,UA-1110,N284JB,United Air Lines Inc.,5898-N284JB-UA-1110
+313,UA-1111,N29124,United Air Lines Inc.,9367-N29124-UA-1111
+314,UA-1116,N29129,United Air Lines Inc.,7393-N29129-UA-1116
+315,UA-1117,N292JB,United Air Lines Inc.,2519-N292JB-UA-1117
+316,UA-112,N294JB,United Air Lines Inc.,5174-N294JB-UA-112
+317,UA-1120,N296JB,United Air Lines Inc.,3941-N296JB-UA-1120
+318,UA-1121,N298JB,United Air Lines Inc.,4577-N298JB-UA-1121
+319,UA-1124,N29906,United Air Lines Inc.,2234-N29906-UA-1124
+320,UA-1127,N29917,United Air Lines Inc.,7695-N29917-UA-1127
+321,UA-1131,N301DQ,United Air Lines Inc.,5643-N301DQ-UA-1131
+322,UA-1132,N301NB,United Air Lines Inc.,8099-N301NB-UA-1132
+323,UA-1137,N302DQ,United Air Lines Inc.,6082-N302DQ-UA-1137
+324,UA-1139,N302NB,United Air Lines Inc.,3097-N302NB-UA-1139
+325,UA-1140,N303DQ,United Air Lines Inc.,7106-N303DQ-UA-1140
+326,UA-1141,N304DQ,United Air Lines Inc.,2303-N304DQ-UA-1141
+327,UA-1142,N304JB,United Air Lines Inc.,3968-N304JB-UA-1142
+328,UA-1146,N305DQ,United Air Lines Inc.,5229-N305DQ-UA-1146
+329,UA-1150,N306DQ,United Air Lines Inc.,4452-N306DQ-UA-1150
+330,UA-1156,N306JB,United Air Lines Inc.,5957-N306JB-UA-1156
+331,UA-1158,N307DQ,United Air Lines Inc.,9644-N307DQ-UA-1158
+332,UA-1162,N307JB,United Air Lines Inc.,9004-N307JB-UA-1162
+333,UA-1164,N308DE,United Air Lines Inc.,6514-N308DE-UA-1164
+334,UA-1165,N309DE,United Air Lines Inc.,1173-N309DE-UA-1165
+335,UA-1170,N309JB,United Air Lines Inc.,5778-N309JB-UA-1170
+336,UA-1172,N309US,United Air Lines Inc.,5357-N309US-UA-1172
+337,UA-1174,N310DE,United Air Lines Inc.,4034-N310DE-UA-1174
+338,UA-1177,N310NW,United Air Lines Inc.,3878-N310NW-UA-1177
+339,UA-1178,N31131,United Air Lines Inc.,6897-N31131-UA-1178
+340,UA-1181,N312US,United Air Lines Inc.,9230-N312US-UA-1181
+341,UA-1186,N31412,United Air Lines Inc.,1746-N31412-UA-1186
+342,UA-1187,N314NB,United Air Lines Inc.,9900-N314NB-UA-1187
+343,UA-1195,N315NB,United Air Lines Inc.,8925-N315NB-UA-1195
+344,UA-1197,N315US,United Air Lines Inc.,8878-N315US-UA-1197
+345,UA-1199,N316JB,United Air Lines Inc.,3647-N316JB-UA-1199
+346,UA-120,N316NB,United Air Lines Inc.,3189-N316NB-UA-120
+347,UA-1200,N316US,United Air Lines Inc.,7206-N316US-UA-1200
+348,UA-1202,N317JB,United Air Lines Inc.,3021-N317JB-UA-1202
+349,UA-1205,N317NB,United Air Lines Inc.,8586-N317NB-UA-1205
+350,UA-1209,N317US,United Air Lines Inc.,1646-N317US-UA-1209
+351,UA-1215,N318JB,United Air Lines Inc.,7324-N318JB-UA-1215
+352,UA-1222,N318NB,United Air Lines Inc.,1564-N318NB-UA-1222
+353,UA-1223,N318US,United Air Lines Inc.,4452-N318US-UA-1223
+354,UA-1230,N319AA,United Air Lines Inc.,4506-N319AA-UA-1230
+355,UA-1232,N319NB,United Air Lines Inc.,9206-N319NB-UA-1232
+356,UA-1233,N319US,United Air Lines Inc.,4455-N319US-UA-1233
+357,UA-1242,N320AA,United Air Lines Inc.,3038-N320AA-UA-1242
+358,UA-1243,N320NB,United Air Lines Inc.,3691-N320NB-UA-1243
+359,UA-1246,N320US,United Air Lines Inc.,6531-N320US-UA-1246
+360,UA-1248,N321NB,United Air Lines Inc.,2808-N321NB-UA-1248
+361,UA-1249,N321US,United Air Lines Inc.,3525-N321US-UA-1249
+362,UA-1250,N322AA,United Air Lines Inc.,7073-N322AA-UA-1250
+363,UA-1262,N322NB,United Air Lines Inc.,3986-N322NB-UA-1262
+364,UA-1268,N322US,United Air Lines Inc.,6730-N322US-UA-1268
+365,UA-1271,N323AA,United Air Lines Inc.,8701-N323AA-UA-1271
+366,UA-1272,N323JB,United Air Lines Inc.,3363-N323JB-UA-1272
+367,UA-1275,N323NB,United Air Lines Inc.,3813-N323NB-UA-1275
+368,UA-1277,N323US,United Air Lines Inc.,1330-N323US-UA-1277
+369,UA-1280,N324AA,United Air Lines Inc.,3263-N324AA-UA-1280
+370,UA-1284,N324JB,United Air Lines Inc.,1594-N324JB-UA-1284
+371,UA-1285,N324NB,United Air Lines Inc.,1291-N324NB-UA-1285
+372,UA-1289,N324US,United Air Lines Inc.,6246-N324US-UA-1289
+373,UA-1292,N325AA,United Air Lines Inc.,1656-N325AA-UA-1292
+374,UA-1294,N325NB,United Air Lines Inc.,3957-N325NB-UA-1294
+375,UA-1296,N325US,United Air Lines Inc.,2957-N325US-UA-1296
+376,UA-1297,N326NB,United Air Lines Inc.,2733-N326NB-UA-1297
+377,UA-1298,N326US,United Air Lines Inc.,2601-N326US-UA-1298
+378,UA-1401,N327AA,United Air Lines Inc.,8048-N327AA-UA-1401
+379,UA-1412,N327NB,United Air Lines Inc.,6631-N327NB-UA-1412
+380,UA-1417,N327NW,United Air Lines Inc.,2652-N327NW-UA-1417
+381,UA-1418,N328AA,United Air Lines Inc.,4091-N328AA-UA-1418
+382,UA-1422,N328JB,United Air Lines Inc.,9770-N328JB-UA-1422
+383,UA-1425,N328NW,United Air Lines Inc.,6635-N328NW-UA-1425
+384,UA-1429,N329AA,United Air Lines Inc.,7949-N329AA-UA-1429
+385,UA-1435,N329JB,United Air Lines Inc.,2410-N329JB-UA-1435
+386,UA-1437,N329NB,United Air Lines Inc.,4904-N329NB-UA-1437
+387,UA-1443,N329NW,United Air Lines Inc.,4937-N329NW-UA-1443
+388,UA-1452,N330NW,United Air Lines Inc.,4759-N330NW-UA-1452
+389,UA-1462,N33103,United Air Lines Inc.,4343-N33103-UA-1462
+390,UA-1480,N33132,United Air Lines Inc.,7001-N33132-UA-1480
+391,UA-1482,N331NW,United Air Lines Inc.,4903-N331NW-UA-1482
+392,UA-1483,N33203,United Air Lines Inc.,2999-N33203-UA-1483
+393,UA-1492,N33209,United Air Lines Inc.,5531-N33209-UA-1492
+394,UA-1497,N33262,United Air Lines Inc.,9858-N33262-UA-1497
+395,UA-1506,N33264,United Air Lines Inc.,5899-N33264-UA-1506
+396,UA-1517,N33266,United Air Lines Inc.,9998-N33266-UA-1517
+397,UA-1521,N33284,United Air Lines Inc.,1443-N33284-UA-1521
+398,UA-1522,N33286,United Air Lines Inc.,1392-N33286-UA-1522
+399,UA-1524,N33289,United Air Lines Inc.,3450-N33289-UA-1524
+400,UA-1527,N33292,United Air Lines Inc.,8475-N33292-UA-1527
+401,UA-1528,N33294,United Air Lines Inc.,5829-N33294-UA-1528
+402,UA-1545,N332AA,United Air Lines Inc.,3510-N332AA-UA-1545
+403,UA-1566,N332NB,United Air Lines Inc.,3908-N332NB-UA-1566
+404,UA-1570,N332NW,United Air Lines Inc.,5255-N332NW-UA-1570
+405,UA-1572,N334JB,United Air Lines Inc.,9702-N334JB-UA-1572
+406,UA-1573,N334NB,United Air Lines Inc.,3300-N334NB-UA-1573
+407,UA-1574,N334NW,United Air Lines Inc.,4452-N334NW-UA-1574
+408,UA-1575,N335AA,United Air Lines Inc.,9330-N335AA-UA-1575
+409,UA-1578,N335NB,United Air Lines Inc.,1361-N335NB-UA-1578
+410,UA-1579,N335NW,United Air Lines Inc.,6848-N335NW-UA-1579
+411,UA-1580,N336AA,United Air Lines Inc.,7460-N336AA-UA-1580
+412,UA-1585,N336NB,United Air Lines Inc.,9593-N336NB-UA-1585
+413,UA-1592,N336NW,United Air Lines Inc.,6883-N336NW-UA-1592
+414,UA-1593,N337JB,United Air Lines Inc.,7179-N337JB-UA-1593
+415,UA-1594,N337NB,United Air Lines Inc.,3858-N337NB-UA-1594
+416,UA-1595,N337NW,United Air Lines Inc.,3478-N337NW-UA-1595
+417,UA-1596,N338AA,United Air Lines Inc.,4282-N338AA-UA-1596
+418,UA-1600,N338NB,United Air Lines Inc.,5925-N338NB-UA-1600
+419,UA-1601,N338NW,United Air Lines Inc.,2424-N338NW-UA-1601
+420,UA-1606,N339AA,United Air Lines Inc.,6372-N339AA-UA-1606
+421,UA-1609,N339JB,United Air Lines Inc.,7739-N339JB-UA-1609
+422,UA-161,N339NB,United Air Lines Inc.,6374-N339NB-UA-161
+423,UA-1616,N339NW,United Air Lines Inc.,3689-N339NW-UA-1616
+424,UA-162,N340NB,United Air Lines Inc.,1528-N340NB-UA-162
+425,UA-1623,N34110,United Air Lines Inc.,6459-N34110-UA-1623
+426,UA-1624,N34131,United Air Lines Inc.,4926-N34131-UA-1624
+427,UA-1629,N34137,United Air Lines Inc.,3755-N34137-UA-1629
+428,UA-1641,N341NB,United Air Lines Inc.,2495-N341NB-UA-1641
+429,UA-1642,N341NW,United Air Lines Inc.,3765-N341NW-UA-1642
+430,UA-1656,N34222,United Air Lines Inc.,2731-N34222-UA-1656
+431,UA-1657,N34282,United Air Lines Inc.,6946-N34282-UA-1657
+432,UA-1665,N342AA,United Air Lines Inc.,2986-N342AA-UA-1665
+433,UA-1668,N342NB,United Air Lines Inc.,7916-N342NB-UA-1668
+434,UA-1669,N343AA,United Air Lines Inc.,6581-N343AA-UA-1669
+435,UA-1671,N343NB,United Air Lines Inc.,5535-N343NB-UA-1671
+436,UA-1673,N343NW,United Air Lines Inc.,9848-N343NW-UA-1673
+437,UA-1676,N34455,United Air Lines Inc.,6883-N34455-UA-1676
+438,UA-1680,N34460,United Air Lines Inc.,4596-N34460-UA-1680
+439,UA-1687,N344AA,United Air Lines Inc.,7121-N344AA-UA-1687
+440,UA-1690,N344NB,United Air Lines Inc.,3280-N344NB-UA-1690
+441,UA-1692,N344NW,United Air Lines Inc.,8978-N344NW-UA-1692
+442,UA-1696,N345AA,United Air Lines Inc.,5135-N345AA-UA-1696
+443,UA-1698,N345NB,United Air Lines Inc.,1466-N345NB-UA-1698
+444,UA-1699,N345NW,United Air Lines Inc.,6828-N345NW-UA-1699
+445,UA-1701,N346AA,United Air Lines Inc.,2291-N346AA-UA-1701
+446,UA-1702,N346JB,United Air Lines Inc.,6416-N346JB-UA-1702
+447,UA-1703,N346NB,United Air Lines Inc.,1458-N346NB-UA-1703
+448,UA-1705,N347NB,United Air Lines Inc.,3132-N347NB-UA-1705
+449,UA-1708,N347NW,United Air Lines Inc.,2163-N347NW-UA-1708
+450,UA-1721,N348AA,United Air Lines Inc.,2668-N348AA-UA-1721
+451,UA-1734,N348JB,United Air Lines Inc.,9010-N348JB-UA-1734
+452,UA-1736,N348NB,United Air Lines Inc.,1585-N348NB-UA-1736
+453,UA-1737,N348NW,United Air Lines Inc.,6173-N348NW-UA-1737
+454,UA-1739,N349AA,United Air Lines Inc.,5867-N349AA-UA-1739
+455,UA-1741,N349NB,United Air Lines Inc.,5837-N349NB-UA-1741
+456,UA-194,N349NW,United Air Lines Inc.,6138-N349NW-UA-194
+457,UA-222,N350NA,United Air Lines Inc.,4584-N350NA-UA-222
+458,UA-223,N351AA,United Air Lines Inc.,8090-N351AA-UA-223
+459,UA-225,N351JB,United Air Lines Inc.,7745-N351JB-UA-225
+460,UA-235,N351NW,United Air Lines Inc.,4692-N351NW-UA-235
+461,UA-238,N35204,United Air Lines Inc.,8805-N35204-UA-238
+462,UA-241,N35260,United Air Lines Inc.,6803-N35260-UA-241
+463,UA-243,N35271,United Air Lines Inc.,6650-N35271-UA-243
+464,UA-244,N352AA,United Air Lines Inc.,7535-N352AA-UA-244
+465,UA-250,N352NW,United Air Lines Inc.,8185-N352NW-UA-250
+466,UA-252,N353JB,United Air Lines Inc.,2289-N353JB-UA-252
+467,UA-255,N353NB,United Air Lines Inc.,2336-N353NB-UA-255
+468,UA-256,N353NW,United Air Lines Inc.,6965-N353NW-UA-256
+469,UA-257,N35407,United Air Lines Inc.,6324-N35407-UA-257
+470,UA-258,N354AA,United Air Lines Inc.,9477-N354AA-UA-258
+471,UA-261,N354NW,United Air Lines Inc.,9860-N354NW-UA-261
+472,UA-262,N355AA,United Air Lines Inc.,4439-N355AA-UA-262
+473,UA-267,N355NB,United Air Lines Inc.,6938-N355NB-UA-267
+474,UA-268,N355NW,United Air Lines Inc.,6888-N355NW-UA-268
+475,UA-269,N356AA,United Air Lines Inc.,1589-N356AA-UA-269
+476,UA-271,N356NW,United Air Lines Inc.,7769-N356NW-UA-271
+477,UA-272,N357AA,United Air Lines Inc.,9470-N357AA-UA-272
+478,UA-275,N357NB,United Air Lines Inc.,4991-N357NB-UA-275
+479,UA-279,N357NW,United Air Lines Inc.,3556-N357NW-UA-279
+480,UA-285,N358AA,United Air Lines Inc.,1185-N358AA-UA-285
+481,UA-287,N358NB,United Air Lines Inc.,6696-N358NB-UA-287
+482,UA-289,N358NW,United Air Lines Inc.,7971-N358NW-UA-289
+483,UA-297,N359NB,United Air Lines Inc.,2775-N359NB-UA-297
+484,UA-298,N360AA,United Air Lines Inc.,7791-N360AA-UA-298
+485,UA-299,N360NB,United Air Lines Inc.,1211-N360NB-UA-299
+486,UA-303,N360NW,United Air Lines Inc.,6360-N360NW-UA-303
+487,UA-305,N361AA,United Air Lines Inc.,2070-N361AA-UA-305
+488,UA-315,N361NB,United Air Lines Inc.,1946-N361NB-UA-315
+489,UA-317,N361NW,United Air Lines Inc.,7323-N361NW-UA-317
+490,UA-32,N36207,United Air Lines Inc.,5912-N36207-UA-32
+491,UA-324,N36247,United Air Lines Inc.,5974-N36247-UA-324
+492,UA-325,N36272,United Air Lines Inc.,4661-N36272-UA-325
+493,UA-326,N36280,United Air Lines Inc.,7405-N36280-UA-326
+494,UA-341,N362AA,United Air Lines Inc.,9612-N362AA-UA-341
+495,UA-342,N362NW,United Air Lines Inc.,2527-N362NW-UA-342
+496,UA-343,N363NW,United Air Lines Inc.,5988-N363NW-UA-343
+497,UA-344,N36444,United Air Lines Inc.,2774-N36444-UA-344
+498,UA-345,N36447,United Air Lines Inc.,5162-N36447-UA-345
+499,UA-357,N364AA,United Air Lines Inc.,1596-N364AA-UA-357
+500,UA-362,N364NB,United Air Lines Inc.,3044-N364NB-UA-362
+501,UA-364,N364NW,United Air Lines Inc.,9228-N364NW-UA-364
+502,UA-367,N365AA,United Air Lines Inc.,7492-N365AA-UA-367
+503,UA-368,N365NB,United Air Lines Inc.,7007-N365NB-UA-368
+504,UA-370,N365NW,United Air Lines Inc.,1279-N365NW-UA-370
+505,UA-371,N366NB,United Air Lines Inc.,2147-N366NB-UA-371
+506,UA-375,N366NW,United Air Lines Inc.,6232-N366NW-UA-375
+507,UA-376,N367NW,United Air Lines Inc.,9882-N367NW-UA-376
+508,UA-385,N368NB,United Air Lines Inc.,2159-N368NB-UA-385
+509,UA-386,N368NW,United Air Lines Inc.,2667-N368NW-UA-386
+510,UA-387,N369NB,United Air Lines Inc.,6464-N369NB-UA-387
+511,UA-389,N369NW,United Air Lines Inc.,5600-N369NW-UA-389
+512,UA-391,N370AA,United Air Lines Inc.,9652-N370AA-UA-391
+513,UA-392,N370NB,United Air Lines Inc.,3102-N370NB-UA-392
+514,UA-393,N370NW,United Air Lines Inc.,9586-N370NW-UA-393
+515,UA-394,N371AA,United Air Lines Inc.,4270-N371AA-UA-394
+516,UA-395,N371CA,United Air Lines Inc.,9064-N371CA-UA-395
+517,UA-397,N371DA,United Air Lines Inc.,8425-N371DA-UA-397
+518,UA-403,N371NB,United Air Lines Inc.,5357-N371NB-UA-403
+519,UA-404,N371NW,United Air Lines Inc.,9285-N371NW-UA-404
+520,UA-405,N37252,United Air Lines Inc.,7351-N37252-UA-405
+521,UA-421,N37253,United Air Lines Inc.,3560-N37253-UA-421
+522,UA-425,N37255,United Air Lines Inc.,8531-N37255-UA-425
+523,UA-426,N37263,United Air Lines Inc.,4321-N37263-UA-426
+524,UA-428,N37267,United Air Lines Inc.,7324-N37267-UA-428
+525,UA-433,N37273,United Air Lines Inc.,1886-N37273-UA-433
+526,UA-437,N37274,United Air Lines Inc.,9806-N37274-UA-437
+527,UA-441,N37277,United Air Lines Inc.,7366-N37277-UA-441
+528,UA-443,N37281,United Air Lines Inc.,3743-N37281-UA-443
+529,UA-448,N37287,United Air Lines Inc.,6119-N37287-UA-448
+530,UA-454,N37290,United Air Lines Inc.,8229-N37290-UA-454
+531,UA-456,N37293,United Air Lines Inc.,1182-N37293-UA-456
+532,UA-457,N37298,United Air Lines Inc.,6519-N37298-UA-457
+533,UA-459,N372DA,United Air Lines Inc.,9741-N372DA-UA-459
+534,UA-460,N3730B,United Air Lines Inc.,3374-N3730B-UA-460
+535,UA-464,N3733Z,United Air Lines Inc.,3612-N3733Z-UA-464
+536,UA-465,N3734B,United Air Lines Inc.,3554-N3734B-UA-465
+537,UA-468,N3735D,United Air Lines Inc.,7800-N3735D-UA-468
+538,UA-471,N3739P,United Air Lines Inc.,6899-N3739P-UA-471
+539,UA-473,N373AA,United Air Lines Inc.,5994-N373AA-UA-473
+540,UA-479,N373DA,United Air Lines Inc.,6458-N373DA-UA-479
+541,UA-481,N373NW,United Air Lines Inc.,8395-N373NW-UA-481
+542,UA-482,N37408,United Air Lines Inc.,3147-N37408-UA-482
+543,UA-492,N37409,United Air Lines Inc.,8778-N37409-UA-492
+544,UA-501,N3740C,United Air Lines Inc.,6552-N3740C-UA-501
+545,UA-512,N37413,United Air Lines Inc.,2091-N37413-UA-512
+546,UA-517,N37420,United Air Lines Inc.,4915-N37420-UA-517
+547,UA-528,N37422,United Air Lines Inc.,7890-N37422-UA-528
+548,UA-529,N37427,United Air Lines Inc.,9112-N37427-UA-529
+549,UA-530,N37434,United Air Lines Inc.,9774-N37434-UA-530
+550,UA-531,N37437,United Air Lines Inc.,3311-N37437-UA-531
+551,UA-532,N3744F,United Air Lines Inc.,8233-N3744F-UA-532
+552,UA-535,N37456,United Air Lines Inc.,9723-N37456-UA-535
+553,UA-54,N3745B,United Air Lines Inc.,8143-N3745B-UA-54
+554,UA-541,N37462,United Air Lines Inc.,8609-N37462-UA-541
+555,UA-544,N37464,United Air Lines Inc.,2515-N37464-UA-544
+556,UA-548,N37465,United Air Lines Inc.,7069-N37465-UA-548
+557,UA-549,N3746H,United Air Lines Inc.,8132-N3746H-UA-549
+558,UA-550,N3747D,United Air Lines Inc.,6999-N3747D-UA-550
+559,UA-551,N3748Y,United Air Lines Inc.,6608-N3748Y-UA-551
+560,UA-552,N3749D,United Air Lines Inc.,8574-N3749D-UA-552
+561,UA-559,N374AA,United Air Lines Inc.,6653-N374AA-UA-559
+562,UA-560,N374DA,United Air Lines Inc.,5312-N374DA-UA-560
+563,UA-561,N374NW,United Air Lines Inc.,1282-N374NW-UA-561
+564,UA-562,N3750D,United Air Lines Inc.,8463-N3750D-UA-562
+565,UA-570,N3751B,United Air Lines Inc.,2104-N3751B-UA-570
+566,UA-572,N3752,United Air Lines Inc.,1951-N3752-UA-572
+567,UA-580,N3753,United Air Lines Inc.,7596-N3753-UA-580
+568,UA-581,N3754A,United Air Lines Inc.,5104-N3754A-UA-581
+569,UA-583,N3755D,United Air Lines Inc.,4370-N3755D-UA-583
+570,UA-589,N3756,United Air Lines Inc.,5291-N3756-UA-589
+571,UA-595,N3757D,United Air Lines Inc.,6218-N3757D-UA-595
+572,UA-597,N3758Y,United Air Lines Inc.,2997-N3758Y-UA-597
+573,UA-604,N3759,United Air Lines Inc.,4096-N3759-UA-604
+574,UA-611,N375DA,United Air Lines Inc.,8791-N375DA-UA-611
+575,UA-617,N3760C,United Air Lines Inc.,8351-N3760C-UA-617
+576,UA-619,N3761R,United Air Lines Inc.,5460-N3761R-UA-619
+577,UA-620,N3762Y,United Air Lines Inc.,8459-N3762Y-UA-620
+578,UA-623,N3763D,United Air Lines Inc.,2796-N3763D-UA-623
+579,UA-627,N3764D,United Air Lines Inc.,8412-N3764D-UA-627
+580,UA-630,N3765,United Air Lines Inc.,8483-N3765-UA-630
+581,UA-642,N3766,United Air Lines Inc.,6964-N3766-UA-642
+582,UA-647,N3767,United Air Lines Inc.,2728-N3767-UA-647
+583,UA-651,N3768,United Air Lines Inc.,4139-N3768-UA-651
+584,UA-655,N3769L,United Air Lines Inc.,3647-N3769L-UA-655
+585,UA-665,N376DA,United Air Lines Inc.,2270-N376DA-UA-665
+586,UA-668,N376NW,United Air Lines Inc.,1720-N376NW-UA-668
+587,UA-669,N37700,United Air Lines Inc.,5360-N37700-UA-669
+588,UA-673,N3771K,United Air Lines Inc.,3805-N3771K-UA-673
+589,UA-683,N3773D,United Air Lines Inc.,7427-N3773D-UA-683
+590,UA-685,N377AA,United Air Lines Inc.,1811-N377AA-UA-685
+591,UA-687,N377DA,United Air Lines Inc.,6303-N377DA-UA-687
+592,UA-688,N377NW,United Air Lines Inc.,4006-N377NW-UA-688
+593,UA-689,N378NW,United Air Lines Inc.,3066-N378NW-UA-689
+594,UA-691,N379DA,United Air Lines Inc.,6271-N379DA-UA-691
+595,UA-695,N380AA,United Air Lines Inc.,1167-N380AA-UA-695
+596,UA-698,N380DA,United Air Lines Inc.,2582-N380DA-UA-698
+597,UA-701,N381DN,United Air Lines Inc.,9418-N381DN-UA-701
+598,UA-702,N38257,United Air Lines Inc.,4907-N38257-UA-702
+599,UA-703,N38268,United Air Lines Inc.,2929-N38268-UA-703
+600,UA-708,N382DA,United Air Lines Inc.,4655-N382DA-UA-708
+601,UA-711,N383AA,United Air Lines Inc.,2376-N383AA-UA-711
+602,UA-714,N383DN,United Air Lines Inc.,2461-N383DN-UA-714
+603,UA-717,N38403,United Air Lines Inc.,5888-N38403-UA-717
+604,UA-72,N38417,United Air Lines Inc.,5339-N38417-UA-72
+605,UA-720,N38424,United Air Lines Inc.,4748-N38424-UA-720
+606,UA-726,N38443,United Air Lines Inc.,8399-N38443-UA-726
+607,UA-73,N38446,United Air Lines Inc.,6285-N38446-UA-73
+608,UA-733,N38454,United Air Lines Inc.,5345-N38454-UA-733
+609,UA-734,N38458,United Air Lines Inc.,2772-N38458-UA-734
+610,UA-741,N38459,United Air Lines Inc.,3483-N38459-UA-741
+611,UA-746,N384AA,United Air Lines Inc.,1455-N384AA-UA-746
+612,UA-750,N384DA,United Air Lines Inc.,4816-N384DA-UA-750
+613,UA-762,N385AA,United Air Lines Inc.,4001-N385AA-UA-762
+614,UA-771,N385DN,United Air Lines Inc.,5390-N385DN-UA-771
+615,UA-772,N386AA,United Air Lines Inc.,3181-N386AA-UA-772
+616,UA-775,N386DA,United Air Lines Inc.,2320-N386DA-UA-775
+617,UA-779,N38727,United Air Lines Inc.,6880-N38727-UA-779
+618,UA-782,N387DA,United Air Lines Inc.,3220-N387DA-UA-782
+619,UA-785,N388AA,United Air Lines Inc.,6826-N388AA-UA-785
+620,UA-789,N388DA,United Air Lines Inc.,6857-N388DA-UA-789
+621,UA-791,N389DA,United Air Lines Inc.,6344-N389DA-UA-791
+622,UA-799,N390AA,United Air Lines Inc.,5187-N390AA-UA-799
+623,UA-80,N390DA,United Air Lines Inc.,4556-N390DA-UA-80
+624,UA-808,N391AA,United Air Lines Inc.,6357-N391AA-UA-808
+625,UA-816,N391DA,United Air Lines Inc.,2497-N391DA-UA-816
+626,UA-852,N39297,United Air Lines Inc.,6114-N39297-UA-852
+627,UA-856,N392DA,United Air Lines Inc.,5472-N392DA-UA-856
+628,UA-871,N393AA,United Air Lines Inc.,6105-N393AA-UA-871
+629,UA-872,N393DA,United Air Lines Inc.,6752-N393DA-UA-872
+630,UA-890,N39423,United Air Lines Inc.,9361-N39423-UA-890
+631,UA-894,N39450,United Air Lines Inc.,3867-N39450-UA-894
+632,UA-906,N39461,United Air Lines Inc.,7004-N39461-UA-906
+633,UA-910,N39463,United Air Lines Inc.,6325-N39463-UA-910
+634,UA-926,N394AA,United Air Lines Inc.,6276-N394AA-UA-926
+635,UA-927,N394DA,United Air Lines Inc.,6018-N394DA-UA-927
+636,UA-954,N395AA,United Air Lines Inc.,1627-N395AA-UA-954
+637,UA-963,N395DN,United Air Lines Inc.,7595-N395DN-UA-963
+638,UA-974,N396AA,United Air Lines Inc.,8962-N396AA-UA-974
+639,UA-979,N39728,United Air Lines Inc.,1519-N39728-UA-979
+640,UA-980,N397DA,United Air Lines Inc.,2666-N397DA-UA-980
+641,UA-984,N398AA,United Air Lines Inc.,5675-N398AA-UA-984
+642,UA-985,N398CA,United Air Lines Inc.,8228-N398CA-UA-985
+643,UA-994,N398DA,United Air Lines Inc.,7260-N398DA-UA-994
+644,UA-997,N399AA,United Air Lines Inc.,5502-N399AA-UA-997
+645,US-1019,N399DA,US Airways Inc.,3481-N399DA-US-1019
+646,US-1030,N3AAAA,US Airways Inc.,1604-N3AAAA-US-1030
+647,US-1036,N3ABAA,US Airways Inc.,4317-N3ABAA-US-1036
+648,US-1048,N3ACAA,US Airways Inc.,2045-N3ACAA-US-1048
+649,US-1055,N3ADAA,US Airways Inc.,4598-N3ADAA-US-1055
+650,US-1057,N3AEMQ,US Airways Inc.,5292-N3AEMQ-US-1057
+651,US-1059,N3AFAA,US Airways Inc.,8099-N3AFAA-US-1059
+652,US-1085,N3AHAA,US Airways Inc.,3699-N3AHAA-US-1085
+653,US-1103,N3AJAA,US Airways Inc.,3505-N3AJAA-US-1103
+654,US-1105,N3AKAA,US Airways Inc.,2084-N3AKAA-US-1105
+655,US-1117,N3ALAA,US Airways Inc.,3237-N3ALAA-US-1117
+656,US-1125,N3AMAA,US Airways Inc.,4595-N3AMAA-US-1125
+657,US-1177,N3ANAA,US Airways Inc.,8102-N3ANAA-US-1177
+658,US-123,N3APAA,US Airways Inc.,1385-N3APAA-US-123
+659,US-1250,N3ARAA,US Airways Inc.,4886-N3ARAA-US-1250
+660,US-1269,N3ASAA,US Airways Inc.,2195-N3ASAA-US-1269
+661,US-1277,N3AUAA,US Airways Inc.,3240-N3AUAA-US-1277
+662,US-1427,N3AVAA,US Airways Inc.,2199-N3AVAA-US-1427
+663,US-1429,N3AWAA,US Airways Inc.,7844-N3AWAA-US-1429
+664,US-1433,N3AXAA,US Airways Inc.,3906-N3AXAA-US-1433
+665,US-1437,N3AYAA,US Airways Inc.,2939-N3AYAA-US-1437
+666,US-1441,N3BAAA,US Airways Inc.,3038-N3BAAA-US-1441
+667,US-1443,N3BBAA,US Airways Inc.,4208-N3BBAA-US-1443
+668,US-1445,N3BCAA,US Airways Inc.,4966-N3BCAA-US-1445
+669,US-1447,N3BEAA,US Airways Inc.,2938-N3BEAA-US-1447
+670,US-1459,N3BFAA,US Airways Inc.,9327-N3BFAA-US-1459
+671,US-1485,N3BGAA,US Airways Inc.,4224-N3BGAA-US-1485
+672,US-1491,N3BHAA,US Airways Inc.,2413-N3BHAA-US-1491
+673,US-1507,N3BJAA,US Airways Inc.,2437-N3BJAA-US-1507
+674,US-1567,N3BKAA,US Airways Inc.,8804-N3BKAA-US-1567
+675,US-1575,N3BLAA,US Airways Inc.,3275-N3BLAA-US-1575
+676,US-1615,N3BMAA,US Airways Inc.,5897-N3BMAA-US-1615
+677,US-1625,N3BNAA,US Airways Inc.,3006-N3BNAA-US-1625
+678,US-1629,N3BPAA,US Airways Inc.,5505-N3BPAA-US-1629
+679,US-1641,N3BRAA,US Airways Inc.,2602-N3BRAA-US-1641
+680,US-1643,N3BUAA,US Airways Inc.,1354-N3BUAA-US-1643
+681,US-1665,N3BVAA,US Airways Inc.,9972-N3BVAA-US-1665
+682,US-1723,N3BWAA,US Airways Inc.,3854-N3BWAA-US-1723
+683,US-1733,N3BXAA,US Airways Inc.,1588-N3BXAA-US-1733
+684,US-1753,N3BYAA,US Airways Inc.,9039-N3BYAA-US-1753
+685,US-1791,N3CAAA,US Airways Inc.,3973-N3CAAA-US-1791
+686,US-1895,N3CCAA,US Airways Inc.,4741-N3CCAA-US-1895
+687,US-1973,N3CDAA,US Airways Inc.,2022-N3CDAA-US-1973
+688,US-2114,N3CEAA,US Airways Inc.,6194-N3CEAA-US-2114
+689,US-2116,N3CFAA,US Airways Inc.,4913-N3CFAA-US-2116
+690,US-2118,N3CHAA,US Airways Inc.,1691-N3CHAA-US-2118
+691,US-2120,N3CJAA,US Airways Inc.,4542-N3CJAA-US-2120
+692,US-2122,N3CKAA,US Airways Inc.,6942-N3CKAA-US-2122
+693,US-2124,N3CLAA,US Airways Inc.,2216-N3CLAA-US-2124
+694,US-2126,N3CNAA,US Airways Inc.,7148-N3CNAA-US-2126
+695,US-2128,N3CRAA,US Airways Inc.,6247-N3CRAA-US-2128
+696,US-2130,N3CSAA,US Airways Inc.,7151-N3CSAA-US-2130
+697,US-2132,N3CUAA,US Airways Inc.,3851-N3CUAA-US-2132
+698,US-2134,N3CVAA,US Airways Inc.,6046-N3CVAA-US-2134
+699,US-2136,N3CWAA,US Airways Inc.,3006-N3CWAA-US-2136
+700,US-2138,N3CXAA,US Airways Inc.,3258-N3CXAA-US-2138
+701,US-2140,N3CYAA,US Airways Inc.,1133-N3CYAA-US-2140
+702,US-2142,N3DAAA,US Airways Inc.,1642-N3DAAA-US-2142
+703,US-2144,N3DBAA,US Airways Inc.,2433-N3DBAA-US-2144
+704,US-373,N3DCAA,US Airways Inc.,6356-N3DCAA-US-373
+705,US-375,N3DDAA,US Airways Inc.,3235-N3DDAA-US-375
+706,US-449,N3DEAA,US Airways Inc.,6822-N3DEAA-US-449
+707,US-487,N3DFAA,US Airways Inc.,4672-N3DFAA-US-487
+708,US-675,N3DGAA,US Airways Inc.,5933-N3DGAA-US-675
+709,US-681,N3DHAA,US Airways Inc.,7795-N3DHAA-US-681
+710,US-720,N3DLAA,US Airways Inc.,4877-N3DLAA-US-720
+711,US-819,N3DMAA,US Airways Inc.,8310-N3DMAA-US-819
+712,US-887,N3DNAA,US Airways Inc.,1472-N3DNAA-US-887
+713,US-894,N3DRAA,US Airways Inc.,6204-N3DRAA-US-894
+714,US-926,N3DSAA,US Airways Inc.,3937-N3DSAA-US-926
+715,US-947,N3DUAA,US Airways Inc.,7429-N3DUAA-US-947
+716,US-975,N3DVAA,US Airways Inc.,5195-N3DVAA-US-975

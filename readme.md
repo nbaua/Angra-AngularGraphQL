@@ -23,7 +23,8 @@ Run the following query on localhost:1000/graphql
         origin
         destination
         carrier {
-        tail_num
+        tailnum
+        flight_ref
         airline
         }
     }

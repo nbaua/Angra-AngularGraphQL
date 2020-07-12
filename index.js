@@ -19,8 +19,9 @@ const schema = buildSchema(`
   type Carrier {
     id: ID
     flight_code: String
-    tail_num: String
+    tailnum: String
     airline: String
+    flight_ref: String
   }
 
   type Flight {
@@ -31,6 +32,7 @@ const schema = buildSchema(`
     air_time: Int
     distance: Int
     airport: String
+    flight_date : String
 
     carrier: Carrier
   }
@@ -48,8 +50,8 @@ const root = {
   },
   flights: (args) => {
     return queryHelper(
-      `SELECT f.airport, f.flight_code, f.origin, f.destination, f.air_time, f.distance,
-                c.flight_code, c.tailnum, c.airline
+      `SELECT f.airport, f.flight_code, f.origin, f.destination, f.air_time, f.distance, f.flight_date, 
+                c.flight_code, c.tailnum, c.airline, c.flight_ref
                 FROM flight AS f 
                 INNER JOIN carrier AS c 
                 ON f.flight_code = c.flight_code  WHERE
@@ -64,8 +66,10 @@ const root = {
           air_time: result.air_time,
           distance: result.distance,
           airport: result.airport,
+          flight_date : result.flight_date,
           carrier: {
-            tail_num: result.tailnum,
+            flight_ref : result.flight_ref,
+            tailnum: result.tailnum,
             airline: result.airline,
           },
         };
