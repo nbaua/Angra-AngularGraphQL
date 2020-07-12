@@ -11,9 +11,14 @@ const app = express().use(cors());
 
 const schema = buildSchema(`
   type Query {
+
     carriers(offset:Int = 0, limit:Int = 10): [Carrier]
     carrier(id:ID!): Carrier
-    flights(flight_code:String!): [Flight]
+    
+    flights(offset:Int = 0, limit:Int = 10): [Flight]
+    flight(id:ID!): Flight
+
+    carrier_flights(flight_code:String!): [Flight]
   }
 
   type Carrier {
@@ -29,13 +34,16 @@ const schema = buildSchema(`
     flight_code: String
     origin: String
     destination: String
-    air_time: Int
-    distance: Int
+    air_time: String
+    distance: String
     airport: String
     flight_date : String
-
+  }
+ 
+  extend type Flight{
     carrier: Carrier
   }
+
 `);
 
 const root = {
@@ -45,10 +53,23 @@ const root = {
       false
     );
   },
+ 
   carrier: (args) => {
     return queryHelper(`SELECT * FROM carrier WHERE id='${args.id}'`, true);
   },
+
   flights: (args) => {
+    return queryHelper(
+      `SELECT * FROM flight LIMIT ${args.offset}, ${args.limit}`,
+      false
+    );
+  },
+
+  flight: (args) => {
+    return queryHelper(`SELECT * FROM flight WHERE id='${args.id}'`, true);
+  },
+
+  carrier_flights: (args) => {
     return queryHelper(
       `SELECT f.airport, f.flight_code, f.origin, f.destination, f.air_time, f.distance, f.flight_date, 
                 c.flight_code, c.tailnum, c.airline, c.flight_ref
