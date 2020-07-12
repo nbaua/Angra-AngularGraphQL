@@ -1,1 +1,55 @@
-<p>home works!</p>
+<h1 class="text-center">Flight Carrier List</h1>
+
+<div class="container col-xs-1 text-center">
+  <div class="form-row align-items-center mt-3 mb-3">
+    <div class="col-sm-6">
+      <input
+        type="text"
+        class="form-control"
+        value="{{ flightCode }}"
+        (change)="update($event)"
+        placeholder="Enter Flight Code and  Press &crarr;"
+      />
+    </div>
+    <div class="col-sm-6">For eg. 9E-3338 or 9E-3422 or 9E-3359, or check more <a href="flight">flights</a></div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="card">
+    <div class="card-body">
+      <table class="table table-striped">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Flight Date</th>
+            <th scope="col">Flight Code</th>
+            <th scope="col">Flight Ref</th>
+            <th scope="col">Airport</th>
+            <th scope="col">Origin</th>
+            <th scope="col">Destination</th>
+            <th scope="col">Air Time</th>
+            <!-- <th scope="col">Distance</th>
+            <th scope="col">Tail No.</th> -->
+            <th scope="col">Airline</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let flight of flights">
+            <td>{{ flight.id }}</td>
+            <td>{{ flight.flight_date }}</td>
+            <td>{{ flight.flight_code }}</td>
+            <td>{{ flight.carrier.flight_ref }}</td>
+            <td>{{ flight.airport }}</td>
+            <td>{{ flight.origin }}</td>
+            <td>{{ flight.destination }}</td>
+            <td>{{ flight.air_time }}</td>
+            <!-- <td>{{ flight.distance }}</td>
+            <td>{{ flight.carrier.tailnum }}</td> -->
+            <td>{{ flight.carrier.airline }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
