@@ -1,1 +1,50 @@
-<p>flight works!</p>
+<h1 class="text-center">Flight Airline List</h1>
+
+<div class="container">
+  <div class="card">
+    <div class="card-body">
+      <table class="table table-striped">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Flight Date</th>
+            <th scope="col">Flight Code</th>
+            <th scope="col">Origin</th>
+            <th scope="col">Destination</th>
+            <th scope="col">Air Time</th>
+            <th scope="col">Distance</th>
+            <th scope="col">Airport</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let flight of flights">
+            <td>{{ flight.id }}</td>
+            <td>{{ flight.flight_date }}</td>
+            <td>{{ flight.flight_code }}</td>
+            <td>{{ flight.origin }}</td>
+            <td>{{ flight.destination }}</td>
+            <td>{{ flight.air_time }}</td>
+            <td>{{ flight.distance }}</td>
+            <td>{{ flight.airport }}</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="col-xs-1 text-center">
+        <button
+          class="btn btn-info btn-circle btn-circle-sm m-1"
+          (click)="prevPage()"
+        >
+          <i class="material-icons">arrow_back</i>
+        </button>
+        Page {{ page + 1 }}
+        <button
+          class="btn btn-info btn-circle btn-circle-sm m-1"
+          (click)="nextPage()"
+        >
+          <i class="material-icons">arrow_forward</i>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

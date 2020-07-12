@@ -1,1 +1,44 @@
-<p>carrier works!</p>
+<h1 class="text-center">Carrier Airline List</h1>
+<div class="container">
+    <div class="card">
+      <div class="card-body">
+        <table class="table table-striped">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Flight Code</th>
+              <th scope="col">Tail No</th>
+              <th scope="col">Airline</th>
+              <th scope="col">Flight Ref</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let carrier of carriers">
+              <td>{{ carrier.id }}</td>
+              <td>{{ carrier.flight_code }}</td>
+              <td>{{ carrier.tailnum }}</td>
+              <td>{{ carrier.airline }}</td>
+              <td>{{ carrier.flight_ref }}</td>
+            </tr>
+          </tbody>
+        </table>
+  
+        <div class="col-xs-1 text-center">
+          <button
+            class="btn btn-info btn-circle btn-circle-sm m-1"
+            (click)="prevPage()"
+          >
+            <i class="material-icons">arrow_back</i>
+          </button>
+          Page {{ page + 1 }}
+          <button
+            class="btn btn-info btn-circle btn-circle-sm m-1"
+            (click)="nextPage()"
+          >
+            <i class="material-icons">arrow_forward</i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
