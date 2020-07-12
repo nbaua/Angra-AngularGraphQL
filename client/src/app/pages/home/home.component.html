@@ -3,15 +3,18 @@
 <div class="container col-xs-1 text-center">
   <div class="form-row align-items-center mt-3 mb-3">
     <div class="col-sm-6">
+     
       <input
+        placeholder="Start typing the Flight Code and  Press &crarr;"
+        id="typeahead-focus"
         type="text"
         class="form-control"
-        value="{{ flightCode }}"
-        (change)="update($event)"
-        placeholder="Enter Flight Code and  Press &crarr;"
+        [(ngModel)]="model"
+        [ngbTypeahead]="search"
+        (selectItem)="onNgbFocusOrClick($event)"
+        #instance="ngbTypeahead"
       />
     </div>
-    <div class="col-sm-6">For eg. 9E-3338 or 9E-3422 or 9E-3359, or check more <a href="flight">flights</a></div>
   </div>
 </div>
 
