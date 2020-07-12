@@ -20,15 +20,15 @@
     "@angular/platform-browser-dynamic": "~10.0.2",
     "@angular/router": "~10.0.2",
     "apollo-angular": "^1.10.0",
+    "apollo-angular-link-http": "^1.11.0",
+    "apollo-cache-inmemory": "^1.6.0",
+    "apollo-client": "^2.6.0",
+    "apollo-link": "^1.2.11",
+    "graphql": "^14.6.0",
+    "graphql-tag": "^2.10.4",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
-    "zone.js": "~0.10.3",
-    "apollo-angular-link-http": "^1.11.0",
-    "apollo-link": "^1.2.11",
-    "apollo-client": "^2.6.0",
-    "apollo-cache-inmemory": "^1.6.0",
-    "graphql-tag": "^2.10.0",
-    "graphql": "^14.6.0"
+    "zone.js": "~0.10.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1000.1",
