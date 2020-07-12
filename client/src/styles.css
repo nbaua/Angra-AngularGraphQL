@@ -1,22 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
 .btn-circle {
-    width: 45px;
-    height: 45px;
-    line-height: 45px;
-    text-align: center;
-    padding: 10px;
-    border-radius: 50%;
-  }
-  
-  .btn-circle i {
-    position: relative;
-    top: -5px;
-    left: -5px;
-  }
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50%;
+}
 
-  .btn-circle-sm {
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
-    font-size: 0.9rem;
-  }
+.btn-circle i {
+  position: relative;
+  top: -5px;
+  left: -5px;
+}
+
+.btn-circle-sm {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  font-size: 0.9rem;
+}
+
+.navbar-custom {
+  background-color: #00b330;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: #ffffff;
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+  color: #ffffff;
+  font-weight: 400;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+  color: #333;
+}
