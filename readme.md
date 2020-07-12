@@ -15,6 +15,9 @@ Simply clone this repository and run following command on terminal to update the
 
 ### Quick Check on GraphQL Server
 
+    > node index
+
+
 Run the following query on localhost:1000/graphql
 
     {
@@ -36,7 +39,7 @@ Run the following query on localhost:1000/graphql
 
 Run the following command after starting the server in another terminal by switching to client directory
 
-> ng serve
+    > ng serve
 
 
 ---
