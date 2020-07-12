@@ -18,7 +18,7 @@ const schema = buildSchema(`
     flights(offset:Int = 0, limit:Int = 10): [Flight]
     flight(id:ID!): Flight
 
-    carrier_flights(flight_code:String!): [Flight]
+    carrier_flights(flight_code:String): [Flight]
   }
 
   type Carrier {
